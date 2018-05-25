@@ -1,7 +1,7 @@
 title: cryptoanarchy.wiki
 description: Arise, you have nothing to lose but your barbed wire fences!
 author: cryptoanarchy.wiki
-github: https://github.com/cryptoanarchywiki
+github: https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
 about: Arise, you have nothing to lose but your barbed wire fences!
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
@@ -18,10 +18,10 @@ collections:
 social:
     - icon: fa-twitter
       link: "https://twitter.com/_cryptoanarchy"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
     - icon: fa-facebook
       link: "https://www.facebook.com/cryptoanarchy.wiki"
+    - icon: fa-github
+      link: "https://github.com/cryptoanarchywiki"
 
 share:
   twitter_username: _cryptoanarchy
