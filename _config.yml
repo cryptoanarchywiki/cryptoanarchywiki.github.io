@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+title: cryptoanarchy.wiki
+description: Arise, you have nothing to lose but your barbed wire fences!
+author: cryptoanarchy.wiki
+github: https://github.com/cryptoanarchywiki
+about: Arise, you have nothing to lose but your barbed wire fences!
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -16,19 +16,15 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://twitter.com/_cryptoanarchy"
     - icon: fa-github
       link: "https://github.com/agusmakmun"
+    - icon: fa-facebook
+      link: "https://www.facebook.com/cryptoanarchy.wiki"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: _cryptoanarchy
   fb_appid: 1749788565247320
 
 urls:
