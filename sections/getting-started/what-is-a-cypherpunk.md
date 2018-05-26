@@ -4,8 +4,6 @@ permalink: /getting-started/what-is-a-cypherpunk
 title: What is a Cypherpunk?
 ---
 
-## Cypherpunks
-
 Wikipedia defines "[Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)" as follows (2018-05-26):
 
 > A **cypherpunk** is any activist advocating widespread use of strong cryptography and privacy-enhancing technologies as a route to social and political change. Originally communicating through the Cypherpunks electronic mailing list, informal groups aimed to achieve privacy and security through proactive use of cryptography. Cypherpunks have been engaged in an active movement since the late 1980s.
@@ -24,7 +22,7 @@ In terms of how "cypherpunks" would define themselves, we can actually look to f
 
 > Cypherpunks write code.
 
-This comes from "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" which was posted by Hughes to the Cypherpunks Mailing List on 9th March 1993. In this document he argues for a cypherpunk ethos which involves action over talk. He believed that instead of debating the fineries of potential systems, cypherpunks should get to work writing the cryptographic software that will enable them to bring more privacy and liberty into the word.
+This comes from "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" which was posted by Hughes to the Cypherpunks Mailing List on 9th March 1993. In this document he argues for a cypherpunk ethos which elevates action over talk. He believed that instead of debating the fineries of theoretical systems, cypherpunks should get to work writing the cryptographic tools that will enable them to bring more privacy and liberty into the word.
 
 Modern-day cypherpunks still hold that ethos close to their heart. Just as "The Crypto-Anarchist Manifesto" was required required reading for that section, "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" is essential reading for all newcomers.
 
