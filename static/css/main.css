@@ -4,7 +4,7 @@ body {
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
-  color: #666;
+  color: #444;
 }
 hr {
   margin-top: 20px;
@@ -26,8 +26,11 @@ h1 {
   margin-bottom: 10px;
   font-size: 25px;
 }
-h2, h3 {
+h2 {
   font-size: 20px;
+}
+h3 {
+  font-size: 16px;
 }
 a, a:link, a:active {
   text-decoration: none;
@@ -56,8 +59,11 @@ a:hover {
 }
 
 /* Content */
-.site-header, .site-subheader {
+.index-header h1, .index-header p {
   font-family: monospace;
+}
+li h3 {
+  margin-top: 0;
 }
 div.content pre {
   background: #333333;
