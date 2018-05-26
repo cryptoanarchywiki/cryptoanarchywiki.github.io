@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #981ceb;
+  color: #680ea4;
 }
 a:hover {
   color: #a0a0a0;
@@ -131,18 +131,18 @@ div.col-sm-3 img.profile-avatar {
 .PageNavigation .prev {
   text-align: left;
 }
-.pagination >  .active > a,
-.pagination >  .active > span,
-.pagination >  .active > a:hover,
-.pagination >  .active > span:hover,
-.pagination >  .active > a:focus,
-.pagination >  .active > span:focus {
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
   background-color: #9943d2;
   border-color: #9943d2;
 }
 .pagination > li > a,
 .pagination > li > span {
-  color: #981ceb;
+  color: #680ea4;
 }
 
 /* Social Icons */
