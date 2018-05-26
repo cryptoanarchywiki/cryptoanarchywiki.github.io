@@ -3,7 +3,7 @@ description: Arise, you have nothing to lose but your barbed wire fences!
 author: cryptoanarchy.wiki
 github: https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io
 about: Arise, you have nothing to lose but your barbed wire fences!
-disqus_shortname: stackproblems
+disqus_shortname: 
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -25,10 +25,10 @@ social:
 
 share:
   twitter_username: _cryptoanarchy
-  fb_appid: 1749788565247320
+  fb_appid: 
 
 urls:
-    - text: About Me
+    - text: About Us
       url: /about/
     - text: My Projects
       url: /projects/
