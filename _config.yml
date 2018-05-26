@@ -10,11 +10,6 @@ avatar_url: /static/img/avatar.jpg
 enableTags: true
 tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
     - icon: fa-twitter
       link: "https://twitter.com/_cryptoanarchy"
@@ -28,12 +23,16 @@ share:
   fb_appid: 
 
 urls:
-    - text: About Us
-      url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
+
+similar_resources:
+    - text: Lopp's Bitcoin Resources
+      url: "https://lopp.net/bitcoin.html"
+    - text: Satoshi Nakamoto Institute
+      url: "https://nakamotoinstitute.org/"
+    - text: "Activism.net: Cypherpunks"
+      url: "https://www.activism.net/cypherpunk/"
 
 url: "https://cryptoanarchywiki.github.io"
 baseurl: ""

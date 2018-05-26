@@ -3,14 +3,23 @@ layout: default
 ---
 
 <div id="home">
-  <h1>{{ site.title }}</h1>
+  <h1 class="site-header">Crypto Anarchy:</h1>
+  <p class="site-subheader">
+    Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.
+  </p>
   <hr />
 
-  <ol class="posts">
-    {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+  <h2>Recent Blog Posts</h2>
+  <ul class="posts">
+    {% for post in site.posts limit:3 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> -- <i><span>{{ post.date | date_to_string }}</span></i></li>
     {% endfor %}
-  </ol>
+  </ul>
+
+  <h2>Getting Started</h2>
+  <p>
+
+  </p>
 
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}

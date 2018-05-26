@@ -159,6 +159,13 @@ layout: compress
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
           </ul>
+          <hr>
+          <ul class="sidebar-nav">
+            <strong>Similar Resources</strong>
+            {% for i in site.similar_resources %}
+              <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
+            {% endfor %}
+          </ul>
         </div>
         <!-- end /.fixed-condition -->
       </div>
