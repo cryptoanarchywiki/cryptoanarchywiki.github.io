@@ -24,3 +24,11 @@ Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledg
 + [What is a Cypherpunk?](/getting-started/what-is-a-cypherpunk)
 + [What is the Cypherpunks Mailing List?](/getting-started/what-is-the-cypherpunks-mailing-list)
 + [What is Bitcoin (And How is it Related)?](/getting-started/what-is-bitcoin)
+
+## Contribute
+
+Maybe in the future, this site will have full wiki functionality.
+
+For now, contributors can submit pull requests to the following repository:
+
++ [cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io/)
