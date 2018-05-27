@@ -1,6 +1,6 @@
 ---
 layout: static-informational
 title: Early Cypherpunks
-no_content: true
+permalink: /people_and_organisations/early-cypherpunks
 order: 2
 ---

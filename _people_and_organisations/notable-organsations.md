@@ -1,6 +1,6 @@
 ---
 layout: static-informational
 title: Notable Organsations
-no_content: true
+permalink: /people_and_organisations/notable-organsations
 order: 5
 ---

@@ -1,6 +1,6 @@
 ---
 layout: static-informational
 title: Cypherpunk/Cryptocurrency Publications
-no_content: true
+permalink: /people_and_organisations/cypherpunk-and-cryptocurrency-publications
 order: 7
 ---

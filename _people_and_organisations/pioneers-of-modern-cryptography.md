@@ -1,6 +1,6 @@
 ---
 layout: static-informational
 title: Pioneers of Modern Cryptography
-no_content: true
+permalink: /people_and_organisations/pioneers-of-modern-cryptography
 order: 1
 ---

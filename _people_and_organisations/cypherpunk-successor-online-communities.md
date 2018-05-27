@@ -1,6 +1,6 @@
 ---
 layout: static-informational
 title: Cypherpunk Successor Online Communities
-no_content: true
+permalink: /people_and_organisations/cypherpunk-successor-online-communities
 order: 6
 ---

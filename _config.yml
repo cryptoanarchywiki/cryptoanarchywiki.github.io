@@ -25,7 +25,7 @@ collections:
     output: true
   people_and_organisations:
     type: section
-    output: false
+    output: true
   events:
     type: section
     output: true
@@ -35,6 +35,9 @@ collections:
   notable_projects:
     type: section
     output: false
+  people:
+    type: subsection
+    output: true
 
 social:
     - icon: fa-twitter
