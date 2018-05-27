@@ -6,8 +6,6 @@ permalink: /people/david-d-friedman
 people-groups: []
 ---
 
-# David D. Friedman
-
 David D. Friedman is Milton and Rose Friedman's son.
 
 From wikipedia:

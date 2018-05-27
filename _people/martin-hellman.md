@@ -6,8 +6,6 @@ permalink: /people/martin-hellman
 people-groups: []
 ---
 
-# Martin Hellman
-
 From wikipedia:
 
 > Martin Edward Hellman (born October 2, 1945) is an American cryptologist, best known for his invention of public key cryptography in cooperation with Whitfield Diffie and Ralph Merkle. Hellman is a longtime contributor to the computer privacy debate, has applied risk analysis to a potential failure of nuclear deterrence, and (as of July 2016) is writing a book with his wife that links stopping fighting at home to bringing peace to the planet.

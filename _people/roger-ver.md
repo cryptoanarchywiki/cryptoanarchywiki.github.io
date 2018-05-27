@@ -6,8 +6,6 @@ permalink: /people/roger-ver
 people-groups: []
 ---
 
-# Roger Ver
-
 From wikipedia:
 
 > Roger Ver (born in February 1979) is a former politician and a Kittitian/Nevisian early investor in bitcoin related startups. He was formerly an American citizen. He was born and lived in Silicon Valley. He now resides in Japan. He has been a prominent supporter of bitcoin adoption and sees bitcoin as a means to promote economic freedom. He identifies as a libertarian, an anarcho-capitalist, peace advocate and advocates for individualism and voluntaryism.

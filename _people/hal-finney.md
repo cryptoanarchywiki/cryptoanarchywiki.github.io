@@ -6,8 +6,6 @@ permalink: /people/hal-finney
 people-groups: []
 ---
 
-# Hal Finney
-
 From wikipedia:
 
 > Harold Thomas Finney II (May 4, 1956 – August 28, 2014) was a developer for PGP Corporation, and was the second developer hired after Phil Zimmermann. In his early career, he was credited as lead developer on several console games. He also was an early bitcoin user and received the first bitcoin transaction from bitcoin's creator Satoshi Nakamoto.

@@ -6,8 +6,6 @@ permalink: /people/whitfield-diffie
 people-groups: []
 ---
 
-# Whitfield Diffie
-
 Not himself a Cypherpunk, but he is known as a privacy advocate and along with Martin Hellman he solved the key distribution problem; which allowed two previously unknown-to-each-other participants to communicate securely without a secure channel to exchange keys.
 
 From wikipedia:

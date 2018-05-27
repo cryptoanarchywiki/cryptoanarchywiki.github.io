@@ -6,8 +6,6 @@ permalink: /people/vitalik-buterin
 people-groups: []
 ---
 
-# Vitalik Buterin
-
 From wikipedia:
 
 > Vitalik Buterin (Russian: Виталий Бутерин) is a Russian-Canadian programmer and writer primarily known as a co-founder of Ethereum and as a co-founder of Bitcoin Magazine.

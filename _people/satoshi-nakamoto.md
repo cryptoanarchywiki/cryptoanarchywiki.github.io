@@ -6,8 +6,6 @@ permalink: /people/satoshi-nakamoto
 people-groups: []
 ---
 
-# Satoshi Nakamoto
-
 From wikipedia:
 
 > Satoshi Nakamoto is the name used by the unknown person(s) who designed bitcoin and created its original reference implementation. As part of the implementation, they also devised the first blockchain database. In the process they were the first to solve the double spending problem for digital currency. They were active in the development of bitcoin up until December 2010.

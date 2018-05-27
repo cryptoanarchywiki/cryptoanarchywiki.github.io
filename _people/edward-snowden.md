@@ -6,8 +6,6 @@ permalink: /people/edward-snowden
 people-groups: []
 ---
 
-# Edward Snowden
-
 From wikipedia:
 
 > Edward Joseph Snowden (born June 21, 1983) is an American computer professional, former Central Intelligence Agency (CIA) employee, and former contractor for the United States government who copied and leaked classified information from the National Security Agency (NSA) in 2013 without authorization. His disclosures revealed numerous global surveillance programs, many run by the NSA and the Five Eyes Intelligence Alliance with the cooperation of telecommunication companies and European governments.

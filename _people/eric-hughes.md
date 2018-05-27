@@ -6,8 +6,6 @@ permalink: /people/eric-hughes
 people-groups: []
 ---
 
-# Eric Hughes
-
 From wikipedia:
 
 > Eric Hughes is an American mathematician, computer programmer, and cypherpunk. He is considered one of the founders of the cypherpunk movement, alongside Timothy C. May and John Gilmore. He is notable for founding and administering the Cypherpunk mailing list, authoring A Cypherpunk's Manifesto, creating and hosting the first anonymous remailer, and coining the motto, "Cypherpunks write code".

@@ -6,8 +6,6 @@ permalink: /people/jacob-appelbaum
 people-groups: []
 ---
 
-# Jacob Appelbaum
-
 From wikipedia
 
 > Jacob Appelbaum (born 1 April 1983) is an American independent journalist, computer security researcher, artist, and hacker. He has been employed by the University of Washington, and was a core member of the Tor project, a free software network designed to provide online anonymity. Appelbaum is also known for representing WikiLeaks. He has displayed his art in a number of institutions across the world and has collaborated with artists such as Laura Poitras, Trevor Paglen, and Ai Weiwei. His journalistic work has been published in Der Spiegel and elsewhere. Appelbaum has repeatedly been targeted by U.S. law enforcement agencies, who obtained a court order for his Twitter account data, detained him at the U.S. border after trips abroad, and seized his laptop and several mobile phones.

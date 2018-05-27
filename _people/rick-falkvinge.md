@@ -6,8 +6,6 @@ permalink: /people/rick-falkvinge
 people-groups: []
 ---
 
-# Rick Falkvinge
-
 From wikipedia:
 
 > Rick Falkvinge (born Dick Greger Augustsson on 21 January 1972) is a Swedish information technology entrepreneur and founder of the Swedish Pirate Party. He is currently a political evangelist with the party, spreading the ideas across the world.

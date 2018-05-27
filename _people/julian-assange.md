@@ -6,8 +6,6 @@ permalink: /people/julian-assange
 people-groups: []
 ---
 
-# Julian Assange
-
 From wikipedia:
 
 >Julian Paul Assange (/əˈsɒnʒ/; born Julian Paul Hawkins, 3 July 1971) is an Australian computer programmer and the founder of WikiLeaks, an organisation which he founded in 2006. He has won accolades including the Sam Adams Award and Martha Gellhorn Prize for Journalism.

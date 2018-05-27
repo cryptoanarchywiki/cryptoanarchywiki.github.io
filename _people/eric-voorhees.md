@@ -6,8 +6,6 @@ permalink: /people/eric-voorhees
 people-groups: []
 ---
 
-# Eric Voorhees
-
 _placeholder_
 
 ## Links

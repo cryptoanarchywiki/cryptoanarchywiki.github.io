@@ -6,8 +6,6 @@ permalink: /people/juan-benet
 people-groups: []
 ---
 
-# Juan Benet
-
 _placeholder_
 
 ## Links

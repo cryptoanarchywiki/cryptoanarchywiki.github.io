@@ -6,8 +6,6 @@ permalink: /people/weev
 people-groups: []
 ---
 
-# Andrew Auernheimer (weev)
-
 From wikipedia:
 
 > Andrew Alan Escher Auernheimer (/ˈɔːrənhaɪmər/ AW-rən-hy-mər; born September 1, 1985), best known by his pseudonym weev, is an American black hat hacker, Internet troll and neo-Nazi. He has identified himself using a variety of aliases to the media, although most sources correctly provide his first name as Andrew. Although Auernheimer has stated he is of Jewish descent, he is a member of an antisemitic network of computer hackers that wages cyber-attacks against universities.

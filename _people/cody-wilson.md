@@ -6,8 +6,6 @@ permalink: /people/cody-wilson
 people-groups: []
 ---
 
-# Cody Wilson
-
 From wikipedia:
 
 > Cody Rutledge Wilson (born January 31, 1988) is an American crypto-anarchist, free-market anarchist, and gun-rights activist, best known as a founder/director of Defense Distributed, a non-profit organization that develops and publishes open source gun designs, so-called "wiki weapons", suitable for 3D printing. He is a co-founder of the Dark Wallet bitcoin storage technology.

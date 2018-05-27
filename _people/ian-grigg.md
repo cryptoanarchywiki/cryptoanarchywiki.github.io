@@ -6,8 +6,6 @@ permalink: /people/ian-grigg
 people-groups: []
 ---
 
-# Ian Grigg
-
 Twitter bio:
 
 > fighting for the user, issuing her assets since 1995. Assets are soft, users are hard. The issue isn't the asset, the issue is you.

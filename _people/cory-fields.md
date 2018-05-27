@@ -6,8 +6,6 @@ permalink: /people/cory-fields
 people-groups: []
 ---
 
-# Cory Fields
-
 _placeholder_
 
 ## Links

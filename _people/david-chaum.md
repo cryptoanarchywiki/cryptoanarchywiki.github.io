@@ -6,8 +6,6 @@ permalink: /people/david-chaum
 people-groups: []
 ---
 
-# David Chaum
-
 While not a Cypherpunk himself, Chaum's research papers were essentially the founding documents of the Cypherpunk movement.
 
 From wikipedia:

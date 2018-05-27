@@ -6,8 +6,6 @@ permalink: /people/clifford-cocks
 people-groups: []
 ---
 
-# Clifford Cocks
-
 From wikipedia:
 
 > Clifford Christopher Cocks CB FRS (born 28 December 1950) is a British mathematician and cryptographer. In 1973 he invented a public key cryptography algorithm equivalent to what would have become (in 1978) the RSA algorithm, while working at the United Kingdom Government Communications Headquarters (GCHQ).

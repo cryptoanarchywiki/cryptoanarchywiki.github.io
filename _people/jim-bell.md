@@ -6,8 +6,6 @@ permalink: /people/jim-bell
 people-groups: []
 ---
 
-# Jim Bell
-
 From wikipedia:
 
 > James Dalton Bell (born 1958) is an American crypto-anarchist who created the idea of arranging for anonymously sponsored assassination payments via the Internet, which he called "assassination politics". Since the publication of the "Assassination Politics" essay, Bell was targeted by the federal government of the United States. He was imprisoned on felony charges of tax evasion in 1997. In 2001, Wired called Bell "[o]ne of the Internet's most famous essayists" and "the world's most notorious crypto-convict".

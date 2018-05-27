@@ -6,8 +6,6 @@ permalink: /people/vinay-gupta
 people-groups: []
 ---
 
-# Vinay Gupta
-
 From myhopeforthe.world:
 
 > I had to put my humanitarian work on the back burner a few years ago. I couldn't make a living, not even enough to support myself in poverty. It was becoming a problem, and I was not being effective. I looked at Elon Musk, and realized there was a better way.

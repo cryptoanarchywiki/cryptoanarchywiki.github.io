@@ -6,8 +6,6 @@ permalink: /people/wei-dai
 people-groups: []
 ---
 
-# Wei Dai
-
 Wei Dai is the inventor of b-money, a very important bitcoin-predecessor. This is his main contribution to the movement; the thing he is most known for.
 
 From the Bitcoin Wiki:

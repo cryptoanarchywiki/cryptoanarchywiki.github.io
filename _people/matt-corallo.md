@@ -6,8 +6,6 @@ permalink: /people/matt-corallo
 people-groups: []
 ---
 
-# Matt Corallo
-
 Blockstream.com team bio:
 
 > Matt is a long-time Bitcoin developer and one of Blockstream’s co-founders, having been an author on our sidechain white paper and engineer on its design. He is an active contributor to Bitcoin Core, as well as the creator and maintainer of the Fast Internet Bitcoin Relay Engine (FIBRE), a protocol and implementation designed to relay blocks around the globe at the speed of light. Matt currently works for Chain Code Labs, contributing to Bitcoin Core and other open-source Bitcoin projects full-time and advises Blockstream on a number of technical projects and initiatives.

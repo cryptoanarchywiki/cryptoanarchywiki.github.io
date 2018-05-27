@@ -6,8 +6,6 @@ permalink: /people/moxie-marlinspike
 people-groups: []
 ---
 
-# Moxie Marlinspike (pseudonym)
-
 From wikipedia:
 
 > Moxie Marlinspike (pseudonym) is an American computer security researcher and cypherpunk. His research has focused primarily on techniques for intercepting communication, as well as methods for strengthening communication infrastructure against interception. Marlinspike is the former head of the security team at Twitter and founder of Open Whisper Systems. He is the author of a proposed SSL authentication system replacement called Convergence, co-author of the Signal Protocol, and a fellow at the Institute for Disruptive Studies. He runs a cloud-based WPA cracking service and manages a targeted anonymity service called GoogleSharing.

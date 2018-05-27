@@ -6,8 +6,6 @@ permalink: /people/charlie-shrem
 people-groups: []
 ---
 
-# Charlie Shrem
-
 From wikipedia:
 
 > Charles "Charlie" Shrem IV (born November 25, 1989) is an American entrepreneur and bitcoin advocate. He co-founded the now-defunct startup company BitInstant, and is a founding member of the Bitcoin Foundation, formerly serving as vice chairman. In 2017, he joined Jaxx as its director of business and community development. In December 2014 he was sentenced to two years in prison for aiding and abetting the operation of an unlicensed money-transmitting business related to the Silk Road marketplace. He was released from prison around June 2016.

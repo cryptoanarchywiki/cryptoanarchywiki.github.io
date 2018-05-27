@@ -6,8 +6,6 @@ permalink: /people/andreas-antonopoulos
 people-groups: []
 ---
 
-# Andreas Antonopoulos
-
 From wikipedia:
 
 > Andreas M. Antonopoulos is a Greek - California-based information security expert, tech-entrepreneur and author. He is a host on the Let's Talk Bitcoin podcast and a teaching fellow for the master in science Digital Currencies at the University of Nicosia.

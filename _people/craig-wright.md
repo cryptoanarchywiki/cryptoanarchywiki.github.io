@@ -6,8 +6,6 @@ permalink: /people/craig-wright
 people-groups: []
 ---
 
-# Craig Wright
-
 From wikipedia:
 
 > Craig Steven Wright (born October 1970) is an Australian computer scientist and businessman. He claims to be the real person behind the pseudonym Satoshi Nakamoto—the creator of bitcoin—a claim that is disputed within the bitcoin community.

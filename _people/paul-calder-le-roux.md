@@ -6,8 +6,6 @@ permalink: /people/paul-calder-le-roux
 people-groups: []
 ---
 
-# Paul Calder Le Roux
-
 From wikipedia:
 
 > Paul Calder Le Roux (born December 24, 1972 in Bulawayo, Rhodesia, now Zimbabwe) is a former programmer, former criminal cartel boss and informant to the US Drug Enforcement Administration (DEA).

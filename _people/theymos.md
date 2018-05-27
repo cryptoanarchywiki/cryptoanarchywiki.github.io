@@ -6,8 +6,6 @@ permalink: /people/theymos
 people-groups: []
 ---
 
-# Michael Marquart (Theymos)
-
 From Theymos's user page on the Bitcoin Wiki:
 
 > I am head administrator of the Bitcoin Forum and /r/Bitcoin. I wrote Bitcoin Block Explorer, but I don't run it anymore. I currently own the bitcoin.it domain name, but you should not contact me about wiki administration.

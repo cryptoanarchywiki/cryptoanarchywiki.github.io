@@ -6,8 +6,6 @@ permalink: /people/peter-todd
 people-groups: []
 ---
 
-# Peter Todd
-
 Twitter bio:
 
 > Applied Cryptography Consultant (what the cool kids call 'blockchain tech') PGP: 0x7FAB114267E4FA04, pete@petertodd.org

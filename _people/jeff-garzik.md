@@ -6,8 +6,6 @@ permalink: /people/jeff-garzik
 people-groups: []
 ---
 
-# Jeff Garzik
-
 Former Bitcoin Core developer. Currently (Aug 2017) a figure of controversy due to his role as lead developer for the SegWit2X scaling compromise.
 
 Medium bio:

@@ -6,8 +6,6 @@ permalink: /people/wladimir-j-van-der-laan
 people-groups: []
 ---
 
-# Wladimir J. van der Laan
-
 WeUseCoins bio:
 
 > Wladimir van der Laan is a Bitcoin Core Developer and the Lead Maintainer of the Bitcoin repository on GitHub.

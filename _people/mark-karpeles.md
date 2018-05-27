@@ -6,8 +6,6 @@ permalink: /people/mark-karpeles
 people-groups: []
 ---
 
-# Mark Karpelès
-
 From wikipedia:
 
 > Mark Marie Robert Karpelès (born June 1, 1985), also sometimes known by his online alias MagicalTux, was the CEO of bitcoin exchange Mt. Gox. He moved to Japan in 2009.

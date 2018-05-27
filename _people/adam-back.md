@@ -6,8 +6,6 @@ permalink: /people/adam-back
 people-groups: []
 ---
 
-# Adam Back
-
 From wikipedia:
 
 > Adam Back (born July 1970) is a British cryptographer and crypto-hacker.

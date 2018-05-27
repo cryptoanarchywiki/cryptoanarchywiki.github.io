@@ -6,8 +6,6 @@ permalink: /people/john-gilmore
 people-groups: []
 ---
 
-# John Gilmore
-
 From wikipedia:
 
 > John Gilmore (born 1955) is one of the founders of the Electronic Frontier Foundation, the Cypherpunks mailing list, and Cygnus Solutions. He created the alt.* hierarchy in Usenet and is a major contributor to the GNU project.

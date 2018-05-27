@@ -6,8 +6,6 @@ permalink: /people/ross-ulbricht
 people-groups: []
 ---
 
-# The Trial of Ross Ulbricht
-
 From wikipedia:
 
 > Ross William Ulbricht (born March 27, 1984) is a former darknet market operator, best known for being convicted of creating and running the Silk Road website until his arrest. He was known under the pseudonym "Dread Pirate Roberts".

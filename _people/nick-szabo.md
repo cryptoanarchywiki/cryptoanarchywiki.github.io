@@ -6,8 +6,6 @@ permalink: /people/nick-szabo
 people-groups: []
 ---
 
-# Nick Szabo
-
 From wikipedia:
 
 > Nick Szabo is a computer scientist, legal scholar and cryptographer known for his research in digital contracts and digital currency. He graduated from the University of Washington in 1989 with a degree in computer science. He holds an honorary professorship at the Universidad Francisco Marroquín.

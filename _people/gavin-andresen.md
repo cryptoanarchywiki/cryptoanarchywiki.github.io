@@ -6,8 +6,6 @@ permalink: /people/gavin-andresen
 people-groups: []
 ---
 
-# Gavin Andresen
-
 From wikipedia:
 
 > Gavin Andresen (born Gavin Bell) is a software developer best known for his involvement with Bitcoin. He is based in Amherst, Massachusetts.

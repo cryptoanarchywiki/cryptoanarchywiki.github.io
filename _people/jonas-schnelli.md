@@ -6,8 +6,6 @@ permalink: /people/jonas-schnelli
 people-groups: []
 ---
 
-# Jonas Schnelli
-
 _placeholder_
 
 ## Links

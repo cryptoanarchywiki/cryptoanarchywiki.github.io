@@ -6,8 +6,6 @@ permalink: /people/phil-zimmermann
 people-groups: []
 ---
 
-# Phil Zimmermann
-
 From wikipedia:
 
 > Philip R. "Phil" Zimmermann, Jr. (born February 12, 1954) is the creator of Pretty Good Privacy (PGP), the most widely used email encryption software in the world. He is also known for his work in VoIP encryption protocols, notably ZRTP and Zfone. Zimmermann is co-founder and Chief Scientist of the global encrypted communications firm, Silent Circle.

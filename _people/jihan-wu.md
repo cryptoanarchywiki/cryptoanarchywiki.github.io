@@ -6,8 +6,6 @@ permalink: /people/jihan-wu
 people-groups: []
 ---
 
-# Jihan Wu
-
 Twitter bio
 
 > Co-founder of BITMAIN. Studied Economics and Psychology in Peking University.

@@ -6,8 +6,6 @@ permalink: /people/dave-kleiman
 people-groups: []
 ---
 
-# Dave Kleiman
-
 From wikipedia:
 
 > Dave Kleiman (1967 – April 26, 2013) was a noted Forensic Computer Investigator, an author/coauthor of multiple books and a noted speaker at security related events. He died in his home in April 2013 of complications from MRSA.

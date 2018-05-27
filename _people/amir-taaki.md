@@ -6,8 +6,6 @@ permalink: /people/amir-taaki
 people-groups: []
 ---
 
-# Amir Taaki
-
 From wikipedia:
 
 > Amir Taaki (born 6 February 1988) is a British-Iranian revolutionary, hacker, and programmer who is known for his leading role in the bitcoin project, and for pioneering many open source projects. Forbes listed Taaki in their top 30 entrepreneurs of 2014. Taaki driven by the political philosophy of the Rojava revolution, travelled to Syria serving in the YPG military, and worked in Rojava's civil society on various economic projects for a year and a half.
