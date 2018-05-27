@@ -34,7 +34,7 @@ similar_resources:
     - text: "Activism.net: Cypherpunks"
       url: "https://www.activism.net/cypherpunk/"
 
-url: "https://cryptoanarchywiki.github.io"
+url: "https://cryptoanarchy.wiki"
 baseurl: ""
 per_page: 20
 markdown: kramdown
