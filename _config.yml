@@ -10,6 +10,20 @@ avatar_url: /static/img/avatar.jpg
 enableTags: true
 tagarray: []
 
+collections:
+  getting_started:
+    type: section
+    output: true
+  contribute:
+    type: section
+    output: false
+  mailing_list:
+    type: section
+    output: false
+  sources:
+    type: sources
+    output: true
+
 social:
     - icon: fa-twitter
       link: "https://twitter.com/_cryptoanarchy"

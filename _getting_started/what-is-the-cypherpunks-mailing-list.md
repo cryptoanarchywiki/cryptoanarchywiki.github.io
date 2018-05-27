@@ -2,7 +2,7 @@
 layout: static-informational
 permalink: /getting-started/what-is-the-cypherpunks-mailing-list
 title: What is the Cypherpunks Mailing List?
-categories: [getting-started]
+order: 3
 ---
 
 From the Wikipedia "[Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)" artice (2018-05-26):

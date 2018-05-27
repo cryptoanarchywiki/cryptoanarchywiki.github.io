@@ -2,7 +2,7 @@
 layout: static-informational
 permalink: /getting-started/what-is-bitcoin
 title: What is Bitcoin (And How is it Related)?
-categories: [getting-started]
+order: 4
 ---
 
 Wikipedia defines "[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)" as follows (2018-05-26):
