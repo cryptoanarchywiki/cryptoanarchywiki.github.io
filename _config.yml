@@ -21,8 +21,20 @@ collections:
     type: section
     output: false
   sources:
-    type: sources
+    type: section
     output: true
+  people_and_organisations:
+    type: section
+    output: false
+  events:
+    type: section
+    output: true
+  key_concepts:
+    type: section
+    output: false
+  notable_projects:
+    type: section
+    output: false
 
 social:
     - icon: fa-twitter
