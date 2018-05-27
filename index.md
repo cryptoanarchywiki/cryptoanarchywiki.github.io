@@ -49,9 +49,11 @@ For now, contributors can submit pull requests to the following repository:
 
 + Pioneers of Modern Cryptography
 + Early Cypherpunks
-+ Crypto-currency Notables
++ Cryptocurrency Notables
 + Later Cypherpunks and Crypto-Anarchists
 + Notable Organsations
++ Cypherpunk Successor Online Communities
++ Cypherpunk/Cryptocurrency Publications
 + Miscelaneous
 
 ## Events
@@ -71,18 +73,6 @@ For now, contributors can submit pull requests to the following repository:
 + Early 2017 - The Altcoin/ICO Bubble and Fourth Bitcoin Bubble
 + Jul/Aug 2017 - Bitcoin Scaling Battles (Big vs Small Blockers)
 
-## Notable Projects
-
-+ Bitcoin
-+ BitTorrent
-+ Ethereum
-+ IPFS
-+ JoinMarket
-+ OpenBazaar
-+ Opendime
-+ PGP
-+ Tor
-
 ## Key Concepts
 
 + Public/Private Key Cryptography
@@ -99,3 +89,15 @@ For now, contributors can submit pull requests to the following repository:
 + Distributed Hash Tables
 + P2P Routing Algorithms
 + Mesh Networks
+
+## Notable Projects
+
++ Bitcoin
++ BitTorrent
++ Ethereum
++ IPFS
++ JoinMarket
++ OpenBazaar
++ Opendime
++ PGP
++ Tor
