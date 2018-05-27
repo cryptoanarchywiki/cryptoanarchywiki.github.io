@@ -36,11 +36,9 @@ similar_resources:
 
 url: "https://cryptoanarchywiki.github.io"
 baseurl: ""
-paginate: 20
 per_page: 20
-paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 

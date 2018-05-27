@@ -20,7 +20,7 @@ Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledg
 
 ## Getting Started
 
-+ ### [What is Crypto Anarchy?](/getting-started/what-is-crypto-anarchy)
-+ ### [What is a Cypherpunk?](/getting-started/what-is-a-cypherpunk)
-+ ### [What is the Cypherpunks Mailing List?](/getting-started/what-is-the-cypherpunks-mailing-list)
-+ ### [What is Bitcoin (And How is it Related)?](/getting-started/what-is-bitcoin)
++ [What is Crypto Anarchy?](/getting-started/what-is-crypto-anarchy)
++ [What is a Cypherpunk?](/getting-started/what-is-a-cypherpunk)
++ [What is the Cypherpunks Mailing List?](/getting-started/what-is-the-cypherpunks-mailing-list)
++ [What is Bitcoin (And How is it Related)?](/getting-started/what-is-bitcoin)

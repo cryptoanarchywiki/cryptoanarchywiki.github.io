@@ -4,7 +4,7 @@ body {
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
-  color: #444;
+  color: #333;
 }
 hr {
   margin-top: 20px;
@@ -14,9 +14,9 @@ hr {
   border-bottom: 1px solid #fff;
 }
 span.time, span.categories {
-  color: #ADADAD;
+  color: #777;
   margin-bottom: 5px;
-  font-size: 11px;
+  font-size: 14px;
 }
 h1, h2, h3 {
   color: #696969;
@@ -62,8 +62,8 @@ a:hover {
 .index-header h1, .index-header p {
   font-family: monospace;
 }
-li h3 {
-  margin-top: 0;
+div.content {
+  padding-top: 10px; 
 }
 div.content pre {
   background: #333333;
@@ -88,6 +88,11 @@ footer {
   font-size: 11px;
   bottom: 0;
   padding-bottom: 10px;
+}
+.dark-wallet-logo {
+  background-color: black;
+  height: 100px;
+  width: 100px;
 }
 
 /* Left column */
@@ -176,11 +181,6 @@ div.col-sm-3 img.profile-avatar {
   color: #6D6D6D;
 }
 
-.share-page {
-  padding: 10px 10px 5px;
-  border-top: 1px solid #f0f0f0;
-  border-bottom: 1px solid #f0f0f0;
-}
 .post-content img,
 .content img {
   max-width: 100%

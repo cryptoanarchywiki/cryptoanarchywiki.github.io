@@ -2,6 +2,7 @@
 layout: static-informational
 permalink: /getting-started/what-is-crypto-anarchy
 title: What is Crypto Anarchy?
+categories: [getting-started]
 ---
 
 Wikipedia defines "[Crypto-Anarchism](https://en.wikipedia.org/wiki/Crypto-anarchism)" as follows (2018-05-26):

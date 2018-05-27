@@ -2,6 +2,7 @@
 layout: static-informational
 permalink: /getting-started/what-is-a-cypherpunk
 title: What is a Cypherpunk?
+categories: [getting-started]
 ---
 
 Wikipedia defines "[Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)" as follows (2018-05-26):

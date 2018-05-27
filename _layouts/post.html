@@ -5,11 +5,12 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
 </header>
 
-<span class="time">{{ page.date | date_to_string }}</span>
+<span class="time">{{ page.date | date_to_string }}</span> - by {{ page.author }}
 
 <div class="content">
   <div class="post">{{ content }}</div>
-  {% include share-page.html %}
+  <hr>
+  <a href="/">Return to Home</a>
 </div>
 
 {% assign hasSimilar = '' %}
