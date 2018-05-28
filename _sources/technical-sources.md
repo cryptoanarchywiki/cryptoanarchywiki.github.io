@@ -5,6 +5,8 @@ title: Technical Sources
 order: 3
 ---
 
+Many of these I collated via [nakamotoinstitute.org](https://nakamotoinstitute.org/literature/).
+
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
 * Jul 1948 The Bell System Technical Journal - [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By Claude Shannon
 * Oct 1949 The Bell System Technical Journal - [Communication Theory of Secrecy Systems](http://www.mast.queensu.ca/~math474/shannon-secrecy49.pdf) by Claude Shannon
