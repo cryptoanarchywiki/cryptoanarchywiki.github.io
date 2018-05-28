@@ -15,7 +15,7 @@ order: 4
 * 01-Apr-1999 Wired Magazine - [The Open Secret](https://www.wired.com/1999/04/crypto/) by Steven Levy
 * 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
-* 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0) by [Hal Finney](people/hal_finney.md)
+* 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0) by [Hal Finney](/people/hal-finney)
 * Jun 2013-Present TheGuardian.com - [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files)
 * Jun 2013-Present Archive.org - [Global Surveillance Disclosures - Documents released by and relating to global surveillance.](https://archive.org/details/nsia-snowden-documents)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
@@ -27,7 +27,7 @@ order: 4
 * 03-Aug-2015 The Intercept - [GCHQ and Me](https://theintercept.com/2015/08/03/life-unmasking-british-eavesdroppers/) by Duncan Campbell
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/) by Ryan Gallagher
 * Mar 2016 American Scientist - [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) by Jamie Bartlett
-* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md)_
+* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _article series about [Paul Calder Le Roux](/people/paul-calder-le-roux)_
 * 18-Jun-2016 Wired Magazine - [A $50 Million Hack Just Showed That the DAO Was All Too Human](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/) by Klint Finley
 * 31-Jul-2016 Wired Magazine - [Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us](https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/) by Andy Greenberg
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
