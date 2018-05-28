@@ -17,6 +17,10 @@ The site works primarily via [Jekyll Collections](https://jekyllrb.com/docs/coll
 + **Section** - This is for items that should be displayed in the hompage contents. There is a collection for each section on the homepage. The items within the collection form the list items below the header.
 + **Subsection** - This is for content which is to be listed on a section item's page (i.e. the page of a specific instance of the collection type above). An example of this type would be the "people" collection. Some of the items in this collection would be found on the "Early Cypherpunks" page.
 
+If you create a new "section" type collection, you'll have to add it to index.html in order for it to display. If you create a new item within a "section" collection, then it will show up automatically. Note that ordering is done via a variable called "order" and you will have to +1 all of the order values for items after it in the list. I have an idea for a solution to this problem, but it's not implemented yet. You can have them show up as bare list-items (not links) by using the `no_content: true` flag. You can also use this collection type's item for an outbound link via the `external_link: true` flag.
+
+If you want to create a new "subsection" type collection, you'll have to wire this up, but there are files in `_includes` that make this easy. To add a "subsection" items such as one in "people", you simply add a file to the relevant collection (and in the case of "people", add at least one category).
+
 ## Style Guide
 
 ### Spelling conventions
