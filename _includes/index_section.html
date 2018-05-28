@@ -1,5 +1,6 @@
-
-<h2>{{ include.title }}</h2>
+{% if include.title %}
+    <h2>{{ include.title }}</h2>
+{% endif %}
 {% if include.description %}
     {{ include.description }}
 {% endif %}
