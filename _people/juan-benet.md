@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Juan Benet
-description: "Creator of the IPFS Protocol (InterPlanetary FileSystem) an attempt to build a content-addressed web, Also behind the FileCoin IPFS incentive layer"
+blurb: "Creator of the IPFS Protocol (InterPlanetary FileSystem) an attempt to build a content-addressed web, Also behind the FileCoin IPFS incentive layer"
 permalink: /people/juan-benet
-people-groups: []
+people-groups: [cryptocurrency, later-cypherpunk]
 ---
 
 _placeholder_

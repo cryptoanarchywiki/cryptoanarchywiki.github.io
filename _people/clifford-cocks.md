@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Clifford Cocks
-description: "British Intelligence Cryptographer, Invented Public Key Cryptography but his work was kept classified until 1997, By definition not a cypherpunk (since he worked in secrecy for intelligence agencies) - but deserving of credit as the field's true founder"
+blurb: "British Intelligence Cryptographer, Invented Public Key Cryptography but his work was kept classified until 1997, By definition not a cypherpunk (since he worked in secrecy for intelligence agencies) - but deserving of credit as the field's true founder"
 permalink: /people/clifford-cocks
-people-groups: []
+people-groups: [pioneer]
 ---
 
 From wikipedia:

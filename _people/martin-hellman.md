@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Martin Hellman
-description: "Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Whitfield Diffie](people/whitfield_diffie.md)"
+blurb: "Cryptographer, Co-creater of Diffie-Hellman Key Exchange with Whitfield Diffie"
 permalink: /people/martin-hellman
-people-groups: []
+people-groups: [pioneer]
 ---
 
 From wikipedia:

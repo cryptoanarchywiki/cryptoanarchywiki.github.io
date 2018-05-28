@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Vinay Gupta
-description: "90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum"
+blurb: "90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum"
 permalink: /people/vinay-gupta
-people-groups: []
+people-groups: [early-cypherpunk, cryptocurrency]
 ---
 
 From myhopeforthe.world:

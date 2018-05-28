@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Wladimir J. van der Laan
-description: "Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)"
+blurb: "Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)"
 permalink: /people/wladimir-j-van-der-laan
-people-groups: []
+people-groups: [cryptocurrency, later-cypherpunk]
 ---
 
 WeUseCoins bio:

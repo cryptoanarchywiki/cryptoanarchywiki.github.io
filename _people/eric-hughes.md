@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Eric Hughes
-description: "Founding member of the Cypherpunk Mailing List,"
+blurb: "Founding member of the Cypherpunk Mailing List,"
 permalink: /people/eric-hughes
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:
@@ -17,5 +17,5 @@ From wikipedia:
 ## Links
 
 * [Eric Hughes on Wikipedia](https://en.wikipedia.org/wiki/Eric_Hughes_%28cypherpunk%29)
-* 22-Nov-1992 Cypherpunk Mailing List - [Crypto Glossary](http://nakamotoinstitute.org/static/docs/crypto-glossary.txt) by Eric Hughes and [Timothy C. May](/people/timothy_c_may.md)
+* 22-Nov-1992 Cypherpunk Mailing List - [Crypto Glossary](http://nakamotoinstitute.org/static/docs/crypto-glossary.txt) by Eric Hughes and [Timothy C. May](/people/timothy-c-may)
 * 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes - _the phrase "Cypherpunks write code" comes from this document_

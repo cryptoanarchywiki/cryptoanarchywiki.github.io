@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: John Gilmore
-description: "Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation"
+blurb: "Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation"
 permalink: /people/john-gilmore
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:

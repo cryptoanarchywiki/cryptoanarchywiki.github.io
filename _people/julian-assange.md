@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Julian Assange
-description: "Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday"
+blurb: "Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday"
 permalink: /people/julian-assange
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:

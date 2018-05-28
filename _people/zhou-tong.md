@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Zhou Tong
-description: "Founder of [Bitcoinica](events/bitcoinica.md), Major player in the early Bitcoin community"
+blurb: "Founder of [Bitcoinica](events/bitcoinica.md), Major player in the early Bitcoin community"
 permalink: /people/zhou-tong
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 His name is the origin of the cryptocurrency community slang "Zhou Tonged":

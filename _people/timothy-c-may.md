@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Timothy C. May
-description: "Founding member of Cypherpunk Mailing List, writer of \"The Crypto-Anarchist Manifesto\" and the \"Cyphernomicon\" (mailing list FAQ)"
+blurb: "Founding member of Cypherpunk Mailing List, writer of \"The Crypto-Anarchist Manifesto\" and the \"Cyphernomicon\" (mailing list FAQ)"
 permalink: /people/timothy-c-may
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 As an Intel engineer, he solved the "alpha particle problem" which affected the reliability of integrated circuits at microchip scales.

@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Paul Calder Le Roux
-description: "Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody"
+blurb: "Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody"
 permalink: /people/paul-calder-le-roux
-people-groups: []
+people-groups: [early-cypherpunk, later-cypherpunk]
 ---
 
 From wikipedia:

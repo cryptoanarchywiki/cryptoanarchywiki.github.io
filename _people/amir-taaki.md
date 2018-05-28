@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Amir Taaki
-description: "British-Iranian Anarchist, Created the Bitcoin Improvement Proposal system, Former [Bitcoinica](events/bitcoinica.md) employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG"
+blurb: "British-Iranian Anarchist, Created the Bitcoin Improvement Proposal system, Former Bitcoinica employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG"
 permalink: /people/amir-taaki
-people-groups: []
+people-groups: [later-cypherpunk, cryptocurrency]
 ---
 
 From wikipedia:
@@ -53,11 +53,11 @@ From wikipedia:
 * 22-Mar-2013 The Guardian - [Silk Road: the online drug marketplace that officials seem powerless to stop](https://www.theguardian.com/world/2013/mar/22/silk-road-online-drug-marketplace) by James Ball
 * 12-May-2013 Satoshi Pollen - [Bit-Towers (up in the Meditation room)](https://www.youtube.com/watch?v=MbUPlFCMPxA)
 * 18-May-2013 RT - ['Bitcoin bomb may blow up banks' bondage, hence US attacks'](https://www.youtube.com/watch?v=eYxgcV4XK-Q)
-* 21-May-2013 Plan B - [Amir Taaki and #Bitcoin 2013 Wrap Up | Plan B 7](https://www.youtube.com/watch?v=Ao_HdHyGKDU)
+* 21-May-2013 Plan B - [Amir Taaki and #Bitcoin 2013 Wrap Up \| Plan B 7](https://www.youtube.com/watch?v=Ao_HdHyGKDU)
 * 22-May-2013 RT - [CrossTalk: Bitcoin Revolution?](https://www.youtube.com/watch?v=nYzXNhk3Vjw)
 * 23-May-2013 Bitcoin Bazaar - [Plan B Episode 7:Amir Taaki and #Bitcoin 2013 Wrap Up](https://bitcoinbazaar.wordpress.com/tag/amir-taaki/)
 * 27-Jul-2013 RT - ['Bitcoin steals power from both banks & gangsters'](https://www.youtube.com/watch?v=as_3Pp_yGq4)
-* 09-Aug-2013 Bitcoin Magazine - [What Libbitcoin and SX are And Why They Matter](https://bitcoinmagazine.com/articles/what-libbitcoin-and-sx-are-and-why-they-matter-1376064919/) by [Vitalik Buterin](/people/vitalik_buterin.md)
+* 09-Aug-2013 Bitcoin Magazine - [What Libbitcoin and SX are And Why They Matter](https://bitcoinmagazine.com/articles/what-libbitcoin-and-sx-are-and-why-they-matter-1376064919/) by [Vitalik Buterin](/people/vitalik-buterin)
 * 23-Aug-2013 Bitcoin Magazine - [Bitcoin – The Digital Black Market: Anonymous and Uncensored [VIDEO]](https://bitcoinmagazine.com/articles/bitcoin-the-digital-black-market-anonymous-and-uncensored-video-1377264986/) by Amir Taaki
 * 20-Sep-2013 BBC Click - [Could Dark Wallet hide Bitcoin user identity? BBC Click](https://www.youtube.com/watch?v=d_9o63E_wjk)
 * 23-Sep-2013 [libbitcoin Manifesto](https://github.com/libbitcoin/libbitcoin.github.io/blob/master/libbitcoin-manifesto.pdf)
@@ -67,9 +67,9 @@ From wikipedia:
 * 14-Oct-2013 Let's Talk Bitcoin - [Amir Taaki on the Broader Culture and Opportunities Ahead](https://www.youtube.com/watch?v=GWFE9QQRQxU)
 * 21-Oct-2013 Defence Distributed on Youtube - [Dark Wallet](https://www.youtube.com/watch?v=Ouo7Q6Cf_yc)
 * 31-Oct-2013 Forbes - [Dark Wallet Aims To Be The Anarchist's Bitcoin App Of Choice](https://www.forbes.com/sites/andygreenberg/2013/10/31/darkwallet-aims-to-be-the-anarchists-bitcoin-app-of-choice/#b394a5a4cadf) by Andy Greenberg
-* 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) by [Vitalik Buterin](/people/vitalik_buterin.md)
-* 09-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 1](https://www.youtube.com/watch?v=0fGPhwVUeug) with [Peter Todd](/people/peter_todd.md)
-* 10-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 2](https://www.youtube.com/watch?v=EBsIEySNOiM) with [Peter Todd](/people/peter_todd.md)
+* 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) by [Vitalik Buterin](/people/vitalik-buterin)
+* 09-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 1](https://www.youtube.com/watch?v=0fGPhwVUeug) with [Peter Todd](/people/peter-todd)
+* 10-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 2](https://www.youtube.com/watch?v=EBsIEySNOiM) with [Peter Todd](/people/peter-todd)
 * 25-Feb-2014 Coinscrum Talk - [Amir Taaki Dark Wallet Live Coinscrum Alternative Stage London](https://www.youtube.com/watch?v=KUjoBHfgg8w)
 * 14-Apr-2014 BraveTheWorld on Youtube - [Amir Taaki "We are the custodians of life's meaning"](https://www.youtube.com/watch?v=COisLGwnb-M)
 * 22-Apr-2014 CoinDesk - [DarkMarket Team Win Toronto Bitcoin Expo Hackathon](https://www.coindesk.com/airbitz-wins-toronto-bitcoin-expo-hackathon-darkmarket/) by Nermin Hajdarbegovic
@@ -89,8 +89,8 @@ From wikipedia:
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 14-Jul-2014 Vice Motherboard - [Dark Wallet's Developer Envisions 'Startup Governments' Run on Bitcoin](https://motherboard.vice.com/en_us/article/ypw3vg/the-dark-wallet-developers-plan-for-startup-governments-run-on-bitcoin) by Joseph Cox
 * 31-Jul-2014 Coin Telegraph - [Bitcoin's "Political Neutrality is a Myth" - Amir Taaki Interview](https://cointelegraph.com/news/bitcoins-political-neutrality-is-a-myth-amir-taaki-interview) by Kenny Spotz
-* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Cody Wilson](/people/cody_wilson.md) and [Peter Todd](/people/peter_todd.md)
-* 10-Sep-2014 World Crypto Network - [Chris Before Coffee - Squat with Amir Taaki, Peter Todd, +BraveTheWorld  and the Unsystem crew](https://www.youtube.com/watch?v=A0KV0lesSK8) with [Peter Todd](/people/peter_todd.md)
+* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Cody Wilson](/people/cody-wilson) and [Peter Todd](/people/peter-todd)
+* 10-Sep-2014 World Crypto Network - [Chris Before Coffee - Squat with Amir Taaki, Peter Todd, +BraveTheWorld  and the Unsystem crew](https://www.youtube.com/watch?v=A0KV0lesSK8) with [Peter Todd](/people/peter-todd)
 * 19-Sep-2014 BBC News - [Hiding currency in the Dark Wallet](http://www.bbc.com/news/technology-29283124) by Jen Copestake
 * 02-Oct-2014 RT - [Keiser Report with Amir Taaki on DarkWallet](https://www.youtube.com/watch?v=AjLdOk7oN0c)
 * 07-Oct-2014 Bitcoin Magazine - [‘The Bitcoin-technology by itself is worth nothing’; an interview with Dark Wallet front-man Amir Taaki](https://bitcoinmagazine.com/articles/bitcoin-technology-worth-nothing-interview-dark-wallet-front-man-amir-taaki-1412722833/) by Aaron van Wirdum

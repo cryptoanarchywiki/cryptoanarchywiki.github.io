@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Ian Grigg
-description: "90s Cypherpunk, Inventor of Ricardian Contracts"
+blurb: "90s Cypherpunk, Inventor of Ricardian Contracts"
 permalink: /people/ian-grigg
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 Twitter bio:

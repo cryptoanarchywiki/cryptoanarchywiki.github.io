@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Jihan Wu
-description: "Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with [Roger Ver](people/roger_ver.md) as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate"
+blurb: "Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with Roger Ver as figureheads of the big-block/bitcoin-cash political faction within the scaling debate"
 permalink: /people/jihan-wu
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 Twitter bio

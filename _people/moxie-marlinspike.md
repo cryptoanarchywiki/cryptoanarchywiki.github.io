@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Moxie Marlinspike (pseudonym)
-description: "Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Signal Protocol (now also used by WhatsApp), Sailor"
+blurb: "Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Signal Protocol (now also used by WhatsApp), Sailor"
 permalink: /people/moxie-marlinspike
-people-groups: []
+people-groups: [later-cypherpunk]
 ---
 
 From wikipedia:

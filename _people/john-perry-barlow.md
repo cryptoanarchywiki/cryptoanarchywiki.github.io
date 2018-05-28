@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: John Perry Barlow
-description: "90s Cypherpunk, Author of \"A Declaration of the Independence of Cyberspace\""
+blurb: "90s Cypherpunk, Author of \"A Declaration of the Independence of Cyberspace\""
 permalink: /people/john-perry-barlow
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:

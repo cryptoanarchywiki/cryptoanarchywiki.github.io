@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Bram Cohen
-description: "Twitter bio: \"Creator of BitTorrent. Now doing cryptocurrency stuff\""
+blurb: "Twitter bio: \"Creator of BitTorrent. Now doing cryptocurrency stuff\""
 permalink: /people/bram-cohen
-people-groups: []
+people-groups: [cryptocurrency, later-cypherpunk]
 ---
 
 Most famous as the inventor of the Bittorrent protocol. He currently has plans for his own cryptocurrency which is based on storage. Bram was also the person who accidentally revealed the existence of the "Dragon's Den" bitcoin core slack channel. He is pro-SegWit in the scaling debate.

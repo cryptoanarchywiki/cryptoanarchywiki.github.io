@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Cody Wilson
-description: "Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with [Amir Taaki](people/amir_taaki.md) on DarkWallet as a kind of spokesman/propagandist"
+blurb: "Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with Amir Taaki on DarkWallet as a kind of spokesman/propagandist"
 permalink: /people/cody-wilson
-people-groups: []
+people-groups: [later-cypherpunk]
 ---
 
 From wikipedia:
@@ -59,7 +59,7 @@ From wikipedia:
 * 28-Mar-2013 Business Insider - [Cody Wilson Is Disrupting The Entire Gun Control Debate](http://www.businessinsider.com/cody-wilson-is-disrupting-gun-debate-2013-3?IR=T) by Paul Szoldra
 * 29-Mar-2013 carbonpenguin on Youtube - [Cody Wilson Blows Glenn Beck's Mind, Tells Him to Read Foucault](https://www.youtube.com/watch?v=HK6-kbdHE2A)
 * 05-Apr-2013 Defense Distributed on Youtube - [Defense Distributed - The Feinstein Mag](https://www.youtube.com/watch?v=0tVwhmfV1bU)
-* 09-Apr-2013 CNBC Prime on Youtube - [Print Your AR-15 at Home America's Gun: The #RiseOfAR15 | CNBC | 4/25](https://www.youtube.com/watch?v=NX3bMvYkGRc)
+* 09-Apr-2013 CNBC Prime on Youtube - [Print Your AR-15 at Home America's Gun: The #RiseOfAR15 \| CNBC \| 4/25](https://www.youtube.com/watch?v=NX3bMvYkGRc)
 * 09-Apr-2013 Vice.com - [The VICE Podcast - Cody Wilson on 3D-Printed Guns](https://www.vice.com/en_us/article/gqw7k3/cody-wilson-on-3d-printed-guns-vice-podcast-001) by Eddy Moretti _([youtube link](https://www.youtube.com/watch?v=aTYWGrfo-ao))_
 * 11-Apr-2013 Defense Distributed on Youtube - [KOBRA - Cody Wilson on Defense Distributed (News Report in Swedish)](https://www.youtube.com/watch?v=kmZAaxYwhOo)
 * 24-Apr-2013 Mashable - [3D-Printed Weapons Builder Says He's Ready to Print Entire Handgun](http://mashable.com/2013/04/24/3d-printed-handgun/#i2kkmXAKYgqt) by Lorenzo Franceschi-Bicchierai
@@ -76,7 +76,7 @@ From wikipedia:
 * 27-Sep-2013 DailyDot.com - [The Liberator: Cody Wilson’s armed for a free speech battle](https://www.dailydot.com/layer8/cody-wilson-itar-state-department-liberator-supreme-court-gun-control/) by Kevin Morris
 * 21-Oct-2013 Defence Distributed on Youtube - [Dark Wallet](https://www.youtube.com/watch?v=Ouo7Q6Cf_yc)
 * 31-Oct-2013 Forbes - [Dark Wallet Aims To Be The Anarchist's Bitcoin App Of Choice](https://www.forbes.com/sites/andygreenberg/2013/10/31/darkwallet-aims-to-be-the-anarchists-bitcoin-app-of-choice/#b394a5a4cadf) by Andy Greenberg
-* 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) by [Vitalik Buterin](/people/vitalik_buterin.md)
+* 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) by [Vitalik Buterin](/people/vitalik-buterin)
 * 10-Nov-2013 Michael Goldstein on Youtube - [Digital Apocalypse: An Interview with Cody Wilson](https://www.youtube.com/watch?v=tawJ_RVdSAs)
 * 21-Nov-2013 The Independent (UK) - [Cody Wilson Create a Gun That Can Be Downloaded and Built with a 3D Printer - Is He Too Dangerous for Britain?](http://www.independent.co.uk/life-style/gadgets-and-tech/cody-wilson-created-a-gun-that-can-be-downloaded-and-built-with-a-3d-printer-is-he-too-dangerous-for-8955409.html) by Paul Peachey
 * 30-Nov-2013 Channel 4 News on Youtube - [Cody Wilson on 'p***ing off the entire world'](https://www.youtube.com/watch?v=YDb6SuUz40I)
@@ -89,9 +89,9 @@ From wikipedia:
 * 26-Feb-2014 CBSLocal Denver - [3-D Printing Technology Can Make Undetectable Guns](http://denver.cbslocal.com/2014/02/26/3-d-printing-technology-can-make-undetectable-guns/)
 * 27-Feb-2014 FreeStateProjectNH on Youtube - [Cody Wilson - Liberator @NHLF14](https://www.youtube.com/watch?v=SyAf-IoOBV8)
 * 12-Mar-2014 BBC New HardTalk - [Cody Wilson on HardTalk](https://www.youtube.com/watch?v=CGjpdjz-mk0)
-* 11-Apr-2014 OxfordUnion on Youtube - [Why I printed a gun | Cody Wilson](https://www.youtube.com/watch?v=3rI7xODbdsk)
+* 11-Apr-2014 OxfordUnion on Youtube - [Why I printed a gun \| Cody Wilson](https://www.youtube.com/watch?v=3rI7xODbdsk)
 * 15-Apr-2014 BraveTheWorld on Youtube - [I AM ANARCHY - Cody Wilson](https://www.youtube.com/watch?v=TE5C-lWvdmU)
-* 16-Apr-2014 SXSW on Youtube - [Blood Physible with Cody Wilson (Full Session) | Interactive 2014 | SXSW](https://www.youtube.com/watch?v=moIWx0c6kKc)
+* 16-Apr-2014 SXSW on Youtube - [Blood Physible with Cody Wilson (Full Session) \| Interactive 2014 \| SXSW](https://www.youtube.com/watch?v=moIWx0c6kKc)
 * 18-Apr-2014 ReasonTV - [Cody Wilson: Happiness is a 3-D Printed Gun](https://www.youtube.com/watch?v=g5fhBBipU3w)
 * 24-Apr-2014 Defense Distributed - [Dark Wallet Alpha](https://www.youtube.com/watch?v=6VFopiRaXwQ)
 * 13-May-2014 BitcoinNotBombs.com - [Cody Wilson and M.K. Lords Discuss Resistance to the State at Freedom Summit](http://www.bitcoinnotbombs.com/cody-wilson-and-m-k-lords-discuss-resistance-to-the-state-at-freedom-summit/)
@@ -100,7 +100,7 @@ From wikipedia:
 * 02-Jun-2014 ComputerWorld.com - [http://www.computerworld.com/article/2490134/emerging-technology/q-a--3d-gun-maker-cody-wilson-defends-freedom-to-print-guns.html](http://www.computerworld.com/article/2490134/emerging-technology/q-a--3d-gun-maker-cody-wilson-defends-freedom-to-print-guns.html) by Lucas Mearian
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 09-Jul-2014 Contrarian Dude on Youtube - [Cody Wilson on Anonymity, Defense Distributed and Dark Wallet](https://www.youtube.com/watch?v=ILEHMZVIMcQ)
-* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Peter Todd](/people/peter_todd.md) and [Amir Taaki](/people/amir_taaki.md)
+* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Peter Todd](/people/peter-todd) and [Amir Taaki](/people/amir-taaki)
 * 15-Sep-2014 RT.com - [3D printed gun creator: I looked at modern society and saw that it's a constantly derailed train](https://www.rt.com/shows/sophieco/187780-3d-printed-gun-control/)
 * 16-Sep-2014 RT on Youtube - ['Gun control is dangerous': RT talks to 3D-printable gun inventor](https://www.youtube.com/watch?v=-mBFI56FkR0)
 * 21-Sep-2014 Defence Distributed on Youtube - [October Surprise](https://www.youtube.com/watch?v=fO30z2o6-t0)

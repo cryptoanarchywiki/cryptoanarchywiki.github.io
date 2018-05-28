@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Mark Karpelès
-description: "Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member"
+blurb: "Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member"
 permalink: /people/mark-karpeles
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 From wikipedia:
@@ -36,5 +36,5 @@ From wikipedia:
 * [Mark Karpelès on Wikipedia](https://en.wikipedia.org/wiki/Mark_Karpel%C3%A8s)
 * [@MagicalTux on Twitter](https://twitter.com/MagicalTux)
 * [Mt. Gox on Wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
-* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](/people/andreas_antonopoulos.md)
+* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](/people/andreas-antonopoulos)
 

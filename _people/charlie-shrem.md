@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Charlie Shrem
-description: "Former CEO of the BitInstant bitcoin exchange, Former Bitcoin Foundation board member, Served a short prison term for supplying bitcoin to a user (BTCKing) who intended to sell them for use on the Silk Road dark web market"
+blurb: "Former CEO of the BitInstant bitcoin exchange, Former Bitcoin Foundation board member, Served a short prison term for supplying bitcoin to a user (BTCKing) who intended to sell them for use on the Silk Road dark web market"
 permalink: /people/charlie-shrem
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 From wikipedia:

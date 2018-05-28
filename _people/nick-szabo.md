@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Nick Szabo
-description: "90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for [Satoshi](people/satoshi_nakamoto.md)"
+blurb: "90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for Satoshi"
 permalink: /people/nick-szabo
-people-groups: []
+people-groups: [early-cypherpunk, cryptocurrency]
 ---
 
 From wikipedia:

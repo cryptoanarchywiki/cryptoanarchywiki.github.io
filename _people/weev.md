@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Andrew Auernheimer (weev)
-description: "Not really a cypherpunk himself but an interesting player in the world the cypherpunks helped build: White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker"
+blurb: "Not really a cypherpunk himself but an interesting player in the world the cypherpunks helped build: White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker"
 permalink: /people/weev
-people-groups: []
+people-groups: [misc]
 ---
 
 From wikipedia:

@@ -1,0 +1,10 @@
+
+<ul>
+    {% for person in site.people %}
+        {% if person.people-groups contains include.group %}
+            <li>
+                <a href="{{ person.permalink }}">{{ person.title }}</a> - {{ person.blurb }}
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

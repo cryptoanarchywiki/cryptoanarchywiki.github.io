@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Dave Kleiman
-description: "Candidate for [Satoshi](people/satoshi_nakamoto.md), Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)"
+blurb: "Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright"
 permalink: /people/dave-kleiman
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 From wikipedia:

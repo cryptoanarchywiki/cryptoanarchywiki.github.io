@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Whitfield Diffie
-description: "Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Martin Hellman](people/martin_hellman.md), Privacy advocate"
+blurb: "Cryptographer, Co-creater of Diffie-Hellman Key Exchange with Martin Hellman, Privacy advocate"
 permalink: /people/whitfield-diffie
-people-groups: []
+people-groups: [pioneer]
 ---
 
 Not himself a Cypherpunk, but he is known as a privacy advocate and along with Martin Hellman he solved the key distribution problem; which allowed two previously unknown-to-each-other participants to communicate securely without a secure channel to exchange keys.

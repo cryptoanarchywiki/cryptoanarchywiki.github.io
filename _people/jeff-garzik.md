@@ -1,12 +1,12 @@
 ---
 layout: static-informational
 title: Jeff Garzik
-description: "Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal"
+blurb: "Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal"
 permalink: /people/jeff-garzik
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
-Former Bitcoin Core developer. Currently (Aug 2017) a figure of controversy due to his role as lead developer for the SegWit2X scaling compromise.
+Former Bitcoin Core developer. Currently (Aug 2017) a figure of controversy due to his role as lead developer for the failed SegWit2X hard-fork attempt.
 
 Medium bio:
 

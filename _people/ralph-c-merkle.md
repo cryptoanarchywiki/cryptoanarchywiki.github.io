@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Ralph C. Merkle
-description: "Cryptographer, One of the inventors of Public Key Cryptography, Inventor of the cryptographic hash"
+blurb: "Cryptographer, One of the inventors of Public Key Cryptography, Inventor of the cryptographic hash"
 permalink: /people/ralph-c-merkle
-people-groups: []
+people-groups: [pioneer]
 ---
 
 From wikipedia:

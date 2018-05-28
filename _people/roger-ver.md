@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Roger Ver
-description: "Early Bitcoin whale and investor, \"The Bitcoin Jesus\", Currently a controversial figure due to his staunch support for the \"Big Block\" faction in the scaling debate and for the \"Bitcoin Cash\" fork-coin, along with [Jihan Wu](people/jihan_wu.md) seen as a figurehead of that faction"
+blurb: "Early Bitcoin whale and investor, \"The Bitcoin Jesus\", Currently a controversial figure due to his staunch support for the \"Big Block\" faction in the scaling debate and for the \"Bitcoin Cash\" fork-coin, along with Jihan Wu seen as a figurehead of that faction"
 permalink: /people/roger-ver
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 From wikipedia:

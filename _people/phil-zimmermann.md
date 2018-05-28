@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Phil Zimmermann
-description: "Author of the Pretty Good Privacy (PGP) Public key encryption software"
+blurb: "Author of the Pretty Good Privacy (PGP) Public key encryption software"
 permalink: /people/phil-zimmermann
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:

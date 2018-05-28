@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Edward Snowden
-description: "Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals"
+blurb: "Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals"
 permalink: /people/edward-snowden
-people-groups: []
+people-groups: [later-cypherpunk]
 ---
 
 From wikipedia:

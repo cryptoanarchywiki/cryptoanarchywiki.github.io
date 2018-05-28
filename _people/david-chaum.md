@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: David Chaum
-description: "Cryptographer and ideological forefather of the Cypherpunk movement"
+blurb: "Cryptographer and ideological forefather of the Cypherpunk movement"
 permalink: /people/david-chaum
-people-groups: []
+people-groups: [pioneer]
 ---
 
 While not a Cypherpunk himself, Chaum's research papers were essentially the founding documents of the Cypherpunk movement.

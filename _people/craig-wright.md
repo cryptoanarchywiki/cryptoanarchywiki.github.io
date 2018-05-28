@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Craig Wright
-description: "Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one"
+blurb: "Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one"
 permalink: /people/craig-wright
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 From wikipedia:

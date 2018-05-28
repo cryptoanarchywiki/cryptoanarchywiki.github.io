@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Jim Bell
-description: "90s Cypherpunk, Crypto-anarchist, Author of [Assassination Politics](http://cryptome.org/ap.htm)"
+blurb: "90s Cypherpunk, Crypto-anarchist, Author of [Assassination Politics](http://cryptome.org/ap.htm)"
 permalink: /people/jim-bell
-people-groups: []
+people-groups: [early-cypherpunk]
 ---
 
 From wikipedia:

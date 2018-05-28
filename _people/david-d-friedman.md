@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: David D. Friedman
-description: "Son of Milton, Anarcho-Capitalist theorist, \"Crypto-Anarchy\" draws a lot from his work"
+blurb: "Son of Milton, Anarcho-Capitalist theorist, \"Crypto-Anarchy\" draws a lot from his work"
 permalink: /people/david-d-friedman
-people-groups: []
+people-groups: [misc]
 ---
 
 David D. Friedman is Milton and Rose Friedman's son.

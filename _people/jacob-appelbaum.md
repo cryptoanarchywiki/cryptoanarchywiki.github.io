@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Jacob Appelbaum
-description: "Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations"
+blurb: "Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations"
 permalink: /people/jacob-appelbaum
-people-groups: []
+people-groups: [later-cypherpunk]
 ---
 
 From wikipedia

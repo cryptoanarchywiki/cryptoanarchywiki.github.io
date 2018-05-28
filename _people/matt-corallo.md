@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Matt Corallo
-description: "Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)"
+blurb: "Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)"
 permalink: /people/matt-corallo
-people-groups: []
+people-groups: [later-cypherpunk, cryptocurrency]
 ---
 
 Blockstream.com team bio:
@@ -16,5 +16,5 @@ Blockstream.com team bio:
 * [Matt Corallo on GitHub](https://github.com/TheBlueMatt)
 * [Matt Corallo on LinkedIn](https://www.linkedin.com/in/matthew-corallo-45a8367a/)
 * [bluematt.bitcoin.ninja - BlueMatt's Blog](http://bluematt.bitcoin.ninja/)
-* 09-Nov-2015 The Bitcoin Foundation on Youtube - [Panel Discussion-DevCore Draper University 2015](https://www.youtube.com/watch?v=0iQSRGT3nfE) with [Andreas Antonopoulos](/people/andreas_antonopoulos.md), [Gregory Maxwell](/people/gregory_maxwell.md) and [Gavin Andresen](/people/gavin_andresen.md)
-* 09-Oct-2016 Kristov Atlas on Youtube - [Fungibility Overview by Adam Back and Matt Corallo (Scaling Bitcoin Milan 2016)](https://www.youtube.com/watch?v=AvS3tp0qqgA) with [Adam Back](/people/adam_back.md)
+* 09-Nov-2015 The Bitcoin Foundation on Youtube - [Panel Discussion-DevCore Draper University 2015](https://www.youtube.com/watch?v=0iQSRGT3nfE) with [Andreas Antonopoulos](/people/andreas-antonopoulos), [Gregory Maxwell](/people/gregory-maxwell) and [Gavin Andresen](/people/gavin-andresen)
+* 09-Oct-2016 Kristov Atlas on Youtube - [Fungibility Overview by Adam Back and Matt Corallo (Scaling Bitcoin Milan 2016)](https://www.youtube.com/watch?v=AvS3tp0qqgA) with [Adam Back](/people/adam-back)

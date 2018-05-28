@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Wei Dai
-description: "90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money"
+blurb: "90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money"
 permalink: /people/wei-dai
-people-groups: []
+people-groups: [early-cypherpunk, cryptocurrency]
 ---
 
 Wei Dai is the inventor of b-money, a very important bitcoin-predecessor. This is his main contribution to the movement; the thing he is most known for.

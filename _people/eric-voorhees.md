@@ -1,9 +1,9 @@
 ---
 layout: static-informational
 title: Eric Voorhees
-description: "Former BitInstant employee, Founder of Coinapult, Outspoken pundit, Ideological convictions"
+blurb: "Former BitInstant employee, Founder of Coinapult, Outspoken pundit, Ideological convictions"
 permalink: /people/eric-voorhees
-people-groups: []
+people-groups: [cryptocurrency]
 ---
 
 _placeholder_
