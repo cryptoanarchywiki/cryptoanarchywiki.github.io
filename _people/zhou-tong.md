@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Zhou Tong
-blurb: "Founder of [Bitcoinica](events/bitcoinica.md), Major player in the early Bitcoin community"
+blurb: "Founder of <a href=\"/events/bitcoinica\">Bitcoinica</a>, Major player in the early Bitcoin community"
 permalink: /people/zhou-tong
 people-groups: [cryptocurrency]
 ---

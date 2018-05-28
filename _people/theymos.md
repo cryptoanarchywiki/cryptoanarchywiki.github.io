@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Michael Marquart (Theymos)
-blurb: "Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls"
+blurb: "Owner of the <a href=\"https://bitcointalk.org/\">bitcointalk</a> web forum, Controversial moderator of the <a href=\"https://www.reddit.com/r/Bitcoin/\">/r/bitcoin</a> subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls"
 permalink: /people/theymos
 people-groups: [cryptocurrency]
 ---

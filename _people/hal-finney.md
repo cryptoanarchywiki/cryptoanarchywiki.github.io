@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Hal Finney
-blurb: "90s Cypherpunk, Received first Bitcoin transaction (from Satoshi), Strong candidate for Satoshi"
+blurb: "90s Cypherpunk, Received first Bitcoin transaction (from <a href=\"/people/satoshi-nakamoto\">Satoshi</a>), Strong candidate for <a href=\"/people/satoshi-nakamoto\">Satoshi</a>"
 permalink: /people/hal-finney
 people-groups: [cryptocurrency, early-cypherpunk]
 ---

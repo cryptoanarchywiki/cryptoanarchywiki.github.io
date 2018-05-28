@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Pieter Wuille
-blurb: "Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder"
+blurb: "Bitcoin Core Developer, Holds the number 2 spot on the <a href=\"https://github.com/bitcoin/bitcoin/graphs/contributors\">bitcoin/bitcoin contributors list</a> (2018-05-28), Blockstream co-founder"
 permalink: /people/pieter-wuille
 people-groups: [early-cypherpunk, later-cypherpunk, cryptocurrency]
 ---

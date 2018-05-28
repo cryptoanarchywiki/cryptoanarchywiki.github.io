@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Gavin Andresen
-blurb: "Satoshi's successor, Managed the project after Satoshi's departure until 2014. He lost write-access to <a href=\"https://github.com/bitcoin/bitcoin\">bitcoin/bitcoin</a> in mid-2016 during a political row, Holds the number 5 spot on the <a href=\"https://github.com/bitcoin/bitcoin/graphs/contributors\">bitcoin/bitcoin contributors list</a> (as of 2018-05-28)"
+blurb: "Satoshi's successor, Managed the project after Satoshi's departure until 2014. He lost write-access to <a href=\"https://github.com/bitcoin/bitcoin\">bitcoin/bitcoin</a> in mid-2016 during a political row, Holds the number 5 spot on the <a href=\"https://github.com/bitcoin/bitcoin/graphs/contributors\">bitcoin/bitcoin contributors list</a> (2018-05-28)"
 permalink: /people/gavin-andresen
 people-groups: ["cryptocurrency"]
 ---

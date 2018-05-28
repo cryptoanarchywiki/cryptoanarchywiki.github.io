@@ -37,7 +37,7 @@ From wikipedia:
 
 ## PGP Public Key
 
-This is a public key which is known to have belonged to Satoshi (satoshin@gmx.com):
+This is a public key which is believed to have belonged to Satoshi (satoshin@gmx.com):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

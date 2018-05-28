@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Matt Corallo
-blurb: "Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)"
+blurb: "Bitcoin Core developer, Holds the number 3 spot on the <a href=\"https://github.com/bitcoin/bitcoin/graphs/contributors\">bitcoin/bitcoin contributors list</a> (2018-05-28)"
 permalink: /people/matt-corallo
 people-groups: [later-cypherpunk, cryptocurrency]
 ---

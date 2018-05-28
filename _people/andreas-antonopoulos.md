@@ -1,7 +1,7 @@
 ---
 layout: static-informational
 title: Andreas Antonopoulos
-blurb: "Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)"
+blurb: "Bitcoin evangelist, Author of <a href=\"https://github.com/bitcoinbook/bitcoinbook\">Mastering Bitcoin</a>"
 permalink: /people/andreas-antonopoulos
 people-groups: [cryptocurrency]
 ---
