@@ -32,7 +32,7 @@ From wikipedia:
 
 ## Links
 
-* [The Collapse of Mt Gox (The Final Goxxing)'s page on this site](/events/mtgox.md)
+* [The Collapse of Mt Gox (The Final Goxxing)'s page on this site](/events/mtgox)
 * [Mark Karpelès on Wikipedia](https://en.wikipedia.org/wiki/Mark_Karpel%C3%A8s)
 * [@MagicalTux on Twitter](https://twitter.com/MagicalTux)
 * [Mt. Gox on Wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
