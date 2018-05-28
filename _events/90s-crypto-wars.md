@@ -1,17 +1,18 @@
 ---
 layout: static-informational
-title: 1990s - Crypto Wars, Phil Zimmermann and PGP
-permalink: /events/crypto-wars-phil-zimmermann-and-pgp
+title: "Crypto Wars, Phil Zimmermann and PGP"
+permalink: /events/90s-crypto-wars
+link-date-prefix: 1990s
 order: 2
 ---
-layout: static-informational
+
 From wikipedia:
 
 > The Crypto Wars is an unofficial name for the U.S. and allied governments' attempts to limit the public's and foreign nations' access to cryptography strong enough to resist decryption by national intelligence agencies (especially USA's NSA).
 
 [Phil Zimmermann](/people/phil_zimmermann.md) was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
 
-Since Public Key encryption was considered a munition, t-shirts like this (containing the RSA sourcecode) were created as a form of civil disobedience using [Adam Back](/people/adam_back.md)'s three-line Perl implementation of RSA:
+Since Public Key encryption was considered a munition, t-shirts like this (containing the PGP sourcecode) were created as a form of civil disobedience using [Adam Back](/people/adam_back.md)'s three-line Perl implementation of PGP:
 
 ![Image of PGP Tshirt](https://upload.wikimedia.org/wikipedia/commons/9/96/Munitions_T-shirt_%28front%29.jpg)
 

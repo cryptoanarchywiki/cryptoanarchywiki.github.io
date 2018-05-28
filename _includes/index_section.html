@@ -6,12 +6,17 @@
 <ul>
     {% assign items = site[include.collection_name] | sort: 'order' %}
     {% for item in items %}
-        {% if item.external_link == true %}
-            <li><a href="{{ item.external_url }}">{{ item.title }}</a></li>
-        {% elsif item.no_content == true %}
-            <li>{{ item.title }}</li>
-        {% else %}
-            <li><a href="{{ item.permalink }}">{{ item.title }}</a></li>
-        {% endif %}
+        <li>
+            {% if item.link-date-prefix %}
+                {{ item.link-date-prefix }} - 
+            {% endif %}
+            {% if item.external_link == true %}
+                <a href="{{ item.external_url }}">{{ item.title }}</a>
+            {% elsif item.no_content == true %}
+                {{ item.title }}
+            {% else %}
+                <a href="{{ item.permalink }}">{{ item.title }}</a>
+            {% endif %}
+        </li>
     {% endfor %}
 </ul>
