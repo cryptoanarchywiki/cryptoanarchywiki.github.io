@@ -38,6 +38,9 @@ collections:
   people:
     type: subsection
     output: true
+  organisations:
+    type: subsection
+    output: true
 
 social:
     - icon: fa-twitter

@@ -14,7 +14,7 @@ From wikipedia:
 
 ## Links
 
-* [The Rise and Fall of the Silk Road's entry in this repository](/events/the_silk_road.md)
+* [The Rise and Fall of the Silk Road's entry in this repository](/events/the-silk-road)
 * [Ross Ulbricht on Wikipedia](https://en.wikipedia.org/wiki/Ross_Ulbricht)
 * [Silk Road (marketplace) on Wikipedia](https://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29)
 * [@Free_Ross on Twitter](https://twitter.com/Free_Ross) (Run by his mother, Lynn Ulbricht)

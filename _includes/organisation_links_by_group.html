@@ -1,0 +1,8 @@
+
+<ul>
+    {% for organisation in site.organisations %}
+        <li>
+            <a href="{{ organisation.permalink }}">{{ organisation.title }}</a> - {{ organisation.blurb }}
+        </li>
+    {% endfor %}
+</ul>

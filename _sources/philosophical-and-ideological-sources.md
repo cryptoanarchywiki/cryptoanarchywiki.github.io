@@ -24,5 +24,5 @@ order: 2
 * 2005 DavidDFriedman.com - [From Imperial China to Cyberspace: Contracting Without the State](http://www.daviddfriedman.com/Academic/Course_Pages/analytical_methods_08/china_to_cyberspace.htm)
 * 03-Dec-2006 NakamotoInstitute.org - [State and Terrorist Conspiracies & Conspiracy as Governance ](http://nakamotoinstitute.org/static/docs/julian-assange-conspiracies.pdf) by [Julian Assange](/people/julian-assange)
 * 2008 Mises.org - [Deflation and Liberty](https://mises.org/document/3726/Deflation-and-Liberty) by Jörg Guido Hülsmann
-* mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
+* mid-2010s paralelnipolis.cz - [Paralelní Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
 * Dec 2015 (Academic Paper) - [The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway

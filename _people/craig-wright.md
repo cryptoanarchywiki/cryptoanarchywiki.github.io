@@ -24,7 +24,7 @@ From wikipedia:
 
 ## Links
 
-* [The Craig Wright Affair (and other attempts to identify Satoshi)'s entry in this repository](events/craig_wright_satoshi.md)
+* [The Craig Wright Affair (and other attempts to identify Satoshi)'s entry in this repository](events/craig-wright-satoshi)
 * [Craig Steven Wright on Wikipedia](https://en.wikipedia.org/wiki/Craig_Steven_Wright)
 * 02-May-2016 Wired Magazine - [How Craig Wright Privately 'Proved' He Created Bitcoin](https://www.wired.com/2016/05/craig-wright-privately-proved-hes-bitcoins-creator/) by Andy Geenberg
 * 04-May-2016 Gizmodo.com - [Is Dave Kleiman the Missing Link in Craig Wright's Satoshi Story?](http://gizmodo.com/is-dave-kleiman-the-missing-link-in-craig-wrights-satos-1774519534) by Andy Cush
