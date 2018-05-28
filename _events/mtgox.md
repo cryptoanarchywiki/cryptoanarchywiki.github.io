@@ -52,6 +52,6 @@ From wikipedia:
 
 ## Links
 
-* [Mark Karpelès's entry in this repository](/people/mark-karpeles)
+* [Mark Karpelès's page on this site](/people/mark-karpeles)
 * [Mt. Gox on Wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
 * 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](/people/andreas-antonopoulos)

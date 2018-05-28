@@ -26,5 +26,5 @@ From wikipedia:
 
 * [John Gilmore on Wikipedia](https://en.wikipedia.org/wiki/John_Gilmore_%28activist%29)
 * [Toad.com - John Gilmore's Personal Website](http://www.toad.com/)
-* [Electronic Frontier Foundation entry in this repository](organisations/eff.md)
+* [Electronic Frontier Foundation page on this site](organisations/eff.md)
 * [Electronic Frontier Foundation - eff.org](https://www.eff.org/)

@@ -16,7 +16,7 @@ From wikipedia:
 
 ## Links
 
-* [Ross Ulbricht's entry in this repository](/people/ross-ulbricht)
+* [Ross Ulbricht's page on this site](/people/ross-ulbricht)
 * [Ross Ulbricht on Wikipedia](https://en.wikipedia.org/wiki/Ross_Ulbricht)
 * [Silk Road (marketplace) on Wikipedia](https://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29)
 * [@Free_Ross on Twitter](https://twitter.com/Free_Ross) (Run by his mother, Lynn Ulbricht)

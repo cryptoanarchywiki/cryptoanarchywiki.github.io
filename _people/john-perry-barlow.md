@@ -16,5 +16,5 @@ From wikipedia:
 * [@JPBarlow on Twitter](https://twitter.com/jpbarlow)
 * [John Perry Barlow on Facebook](https://www.facebook.com/johnperrybarlow)
 * 08-Feb-1996 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence)
-* [Electronic Frontier Foundation entry in this repository](organisations/eff.md)
+* [Electronic Frontier Foundation page on this site](organisations/eff.md)
 * [Electronic Frontier Foundation - eff.org](https://www.eff.org/)

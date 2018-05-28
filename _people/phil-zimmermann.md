@@ -16,7 +16,7 @@ Phil Zimmermann was a key player in the [90s Crypto Wars](/events/90s-crypto-war
 
 ## Links
 
-* [90s Crypto Wars entry in this repository](/events/90s-crypto-wars)
+* [90s Crypto Wars page on this site](/events/90s-crypto-wars)
 * [Phil Zimmermann on Wikipedia](https://en.wikipedia.org/wiki/Phil_Zimmermann)
 * [Crypto Wars on Wikipedia](https://en.wikipedia.org/wiki/Crypto_Wars)
 * [Pretty Good Privacy (PGP) on Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
