@@ -34,7 +34,7 @@ Exact dates should be given in the following format: 31-Oct-2008. This is becaus
 + Aug 2013-Sep 2015 (for a month-to-month range in different years)
 + 2008/2009 (for an ongoing period of time with an unclear start date - i.e. was Bitcoin created by the genesis block, or the announcement of the white paper?)
 
-For new content that I create (i.e. that not directly imported from cypherpunk-research) I have started marking this with the date when they were true. For example:
+For new content that I create (i.e. that not directly imported from cypherpunk-research) I have started marking things with the date when they were true. For example:
 
 > Wikipedia defines "[Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)" as follows (2018-05-26)
 
