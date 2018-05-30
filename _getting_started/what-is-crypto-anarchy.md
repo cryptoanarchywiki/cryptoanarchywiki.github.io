@@ -20,4 +20,4 @@ The more radical still, such as Jim Bell, propose using these same technologies 
 ## tl;dr:
 
 + Essential reading: [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
-+ Crypto-anarchists seek to use strong encryption and anonymity tools to create spaces outside of the reach of the state for free space and commerce. 
++ Crypto-anarchists seek to use strong encryption and anonymity tools to create spaces outside of the reach of the state for free speech and commerce. 
