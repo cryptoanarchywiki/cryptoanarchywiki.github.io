@@ -23,7 +23,7 @@ The modern crypto-currency space can largely be considered as an offshoot of the
 
 + Optional reading: [The Cyphernomicon - Cypherpunks Mailing List FAQ](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)
 + Optional reading: [Cypherpunk Mailing List Archives](https://cypherpunks.venona.com/date/)
-+ The Cypherpunks Mailing List was the place where a community and ideology was founded that favoured direct action (in the form of software code) towards the ends of social change (namely an increase in privacy and individial liberty).
++ The Cypherpunks Mailing List was the place where a community and ideology was founded that favoured direct action (in the form of software code) towards the ends of social change (namely an increase in privacy and individial liberty). I say "was" because, while an incarnation of the list still exists, it's not really the same community in terms of participants and signal-to-noise ratio.
 + This community and ideology later inspired the creation of Wikileaks, Bitcoin and the current Cryptocurrency space.
 + The heyday of the list coincides with an important social and legal battle with the US government over the control of strong cryptography.
 + See also [What is a Cypherpunk?](/getting-started/what-is-a-cypherpunk)
