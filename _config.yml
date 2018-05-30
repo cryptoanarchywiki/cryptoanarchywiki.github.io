@@ -55,10 +55,26 @@ share:
   fb_appid: 
 
 urls:
-    - text: Blog
+    - text: "Blog"
       url: /blog
-    - text: XML Feed
-      url: /feed.xml
+    - text: "Getting Started"
+      url: /#getting-started
+    - text: "Contribute"
+      url: "https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io/"
+      target_blank: true
+    - text: "Cypherpunks Mailing List"
+      url: /#cypherpunks-mailing-list
+    - text: "Sources"
+      url: /#sources
+    - text: "People & Organisations"
+      url: /#people-and-organisations
+    - text: "Events"
+      url: /#events
+    - text: "Key Concepts"
+      url: /#key-concepts
+    - text: "Notable Projects"
+      url: /#notable-projects
+
 
 similar_resources:
     - text: Lopp's Bitcoin Resources

@@ -62,9 +62,6 @@ a:hover {
 .index-header h1, .index-header p {
   font-family: monospace;
 }
-div#home {
-  margin-top: 10px;
-}
 div.content {
   padding-top: 10px; 
 }
