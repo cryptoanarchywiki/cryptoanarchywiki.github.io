@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="index-header" markdown='1'>
+    <h1>Crypto Anarchy:</h1>
+    <p>Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.</p>
+</div>
+
+<hr>
+
+<h2>Blog Posts</h2>
+
+I probably won't write too much here, but any major changes to the site or anything I want to write about that doesn't fit into an existing category will go here.
+
+<div id="home">
+  <ol class="posts">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    {% endfor %}
+  </ol>
+</div>

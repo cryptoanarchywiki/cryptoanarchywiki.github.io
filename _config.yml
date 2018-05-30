@@ -55,6 +55,8 @@ share:
   fb_appid: 
 
 urls:
+    - text: Blog
+      url: /blog
     - text: XML Feed
       url: /feed.xml
 
@@ -78,3 +80,5 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
+  ignore:
+    envs: ['development']
