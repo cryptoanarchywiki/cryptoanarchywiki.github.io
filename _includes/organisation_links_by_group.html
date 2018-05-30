@@ -2,7 +2,13 @@
 <ul>
     {% for organisation in site.organisations %}
         <li>
-            <a href="{{ organisation.permalink }}">{{ organisation.title }}</a> - {{ organisation.blurb }}
+            {% if organisation.external_link == true %}
+                <a href="{{ organisation.external_url }}">{{ organisation.title }}</a> - {{ organisation.blurb }}
+            {% elsif organisation.no_content == true %}
+                {{ organisation.title }} - {{ organisation.blurb }}
+            {% else %}
+                <a href="{{ organisation.permalink }}">{{ organisation.title }}</a> - {{ organisation.blurb }}
+            {% endif %}
         </li>
     {% endfor %}
 </ul>
