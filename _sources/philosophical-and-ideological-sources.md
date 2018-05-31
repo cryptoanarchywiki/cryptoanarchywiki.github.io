@@ -5,6 +5,8 @@ title: Philosophical/Ideological Sources
 order: 2
 ---
 
+Many of these I collated via [nakamotoinstitute.org](https://nakamotoinstitute.org/literature/).
+
 * 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](/people/david-d-friedman)
 * 1978 Mises.org - [Denationalisation of Money: The Argument Refined](https://mises.org/document/3970/Denationalisation-of-Money-The-Argument-Refined) by Friedrich A. Hayek
 * Nov 1979 NakamotoInstitute.org - [From Crossbows To Cryptography: Techno-Thwarting The State](http://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) by Chuck Hammill
