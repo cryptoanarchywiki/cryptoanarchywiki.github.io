@@ -17,7 +17,7 @@ Reading the archives, you will notice that while it was subject to the usual tro
 
 This community inspired a generation of people to start viewing this relatively arcane branch of mathematics (assymetric cryptography - itself only about 20 years old at the time) as a powerful tool for social change. Armed with these ideological convictions and technical toolsets, many cypherpunks made great contributions. Notable list participants include Julian Assange, the founder of Wikileaks, and Hal Finney (the receiver of the first Bitcoin transaction). Assuming Satoshi Nakamoto (the creator of Bitcoin) was not Finney himself, then this mysterious figure was also most likely a list subscriber (and maybe participant).
 
-The modern crypto-currency space can largely be considered as an offshoot of the community first formed on the Cypherpunks Mailing List.
+The modern cryptocurrency space can largely be considered as an offshoot of the community first formed on the Cypherpunks Mailing List.
 
 ## tl;dr:
 
