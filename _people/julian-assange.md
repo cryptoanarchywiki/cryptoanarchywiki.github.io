@@ -14,6 +14,11 @@ From wikipedia:
 
 > In November 2010, a request was made for Assange's extradition to Sweden, where he had been questioned months earlier over allegations of sexual assault and rape. Assange continued to deny the allegations, and expressed concern that he would be extradited from Sweden to the United States because of his perceived role in publishing secret American documents. Assange surrendered himself to UK police on 7 December 2010, and was held for ten days in solitary confinement before being released on bail. Having been unsuccessful in his challenge to the extradition proceedings, he breached his bail and absconded. He was granted asylum by Ecuador in August 2012. He has since remained in the Embassy of Ecuador in London, and is free to leave, although it is likely that he would then be arrested for the criminal offence of breaching his bail conditions. On 19 May 2017, the Swedish prosecutors dropped the investigation into rape accusations against Assange and applied to revoke his arrest warrant, although the Metropolitan Police have indicated that an arrest warrant is still in force for Assange's failure to surrender himself to the British court.
 
+
+Cypherpunk background:
+
+- Unknown to many, he was an extremely active participant of the cypherpunks mailing between 1995 and 2002.
+
 ## Links
 
 *There are just an enourmous amount of sources available on Julian, if anyone could help me compile them with a PR I would really appreciate it*
@@ -27,3 +32,4 @@ From wikipedia:
 * Oct 2013 Vanity Fair [The Man Who Came to Dinner](https://www.vanityfair.com/news/politics/2013/10/julian-assange-hideout-ecuador) by Sarah Ellison
 * 18-Oct-2016 The Telegraph (UK) - [Ecuador 'cuts Julian Assange's internet access' after Hillary Clinton leaks](http://www.telegraph.co.uk/news/2016/10/18/ecuador-cuts-julian-assanges-internet-access-after-hillary-clint/)
 * 21-Aug-2017 New Yorker Magazine - [Julian Assange, a Man Without a Country](http://www.newyorker.com/magazine/2017/08/21/julian-assange-a-man-without-a-country) by Raffi Khatchadourian
+* Mar-2011 The Monthly Magazine - [Cypherpunk Revolutionary] (https://www.themonthly.com.au/issue/2011/february/1324596189/robert-manne/cypherpunk-revolutionary)
