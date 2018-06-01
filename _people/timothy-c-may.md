@@ -45,3 +45,4 @@ W.A.S.T.E.: Aptos, CA  | black markets, collapse of governments.
 * 14-Apr-1995 [Out of Control Ch 12 - E-Money](http://kk.org/mt-files/outofcontrol/ch12-a.html) by Kevin Kelly
 * 1996 [True Nyms and Crypto Anarchy](https://books.google.pl/books?id=3rHgBwAAQBAJ&pg=PT30&lpg=PT30&dq=True+Nyms+and+Crypto+Anarchy&source=bl&ots=PZLcyD-544&sig=Z-X0-dHxvOMPk1PSc_uCix9Nh3w&hl=en&sa=X&ved=0ahUKEwi4scWMuenVAhWHEVAKHfU6AvIQ6AEIPzAE#v=onepage&q=True%20Nyms%20and%20Crypto%20Anarchy&f=false) by Timothy C. May
 * 2007-2014 [Tim May's Posts on Lambda-the-Ultimate](http://lambda-the-ultimate.org/user/3908/track)
+* 11-Feb-2017 HCPP16 Conference on Youtube - [Thirty Years of Crypto Anarchy](https://www.youtube.com/watch?v=TdmpAy1hI8g&t=908s)
