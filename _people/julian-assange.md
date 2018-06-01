@@ -32,4 +32,4 @@ Cypherpunk background:
 * Oct 2013 Vanity Fair [The Man Who Came to Dinner](https://www.vanityfair.com/news/politics/2013/10/julian-assange-hideout-ecuador) by Sarah Ellison
 * 18-Oct-2016 The Telegraph (UK) - [Ecuador 'cuts Julian Assange's internet access' after Hillary Clinton leaks](http://www.telegraph.co.uk/news/2016/10/18/ecuador-cuts-julian-assanges-internet-access-after-hillary-clint/)
 * 21-Aug-2017 New Yorker Magazine - [Julian Assange, a Man Without a Country](http://www.newyorker.com/magazine/2017/08/21/julian-assange-a-man-without-a-country) by Raffi Khatchadourian
-* Mar-2011 The Monthly Magazine - [Cypherpunk Revolutionary](https://www.themonthly.com.au/issue/2011/february/1324596189/robert-manne/cypherpunk-revolutionary)
+* Mar-2011 The Monthly Magazine - [Cypherpunk Revolutionary](https://www.themonthly.com.au/issue/2011/february/1324596189/robert-manne/cypherpunk-revolutionary) by Robert Manne
