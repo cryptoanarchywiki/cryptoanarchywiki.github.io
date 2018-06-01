@@ -25,7 +25,7 @@ In terms of how "cypherpunks" would define themselves, we can actually look to f
 
 This comes from "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" which was posted by Hughes to the Cypherpunks Mailing List on 9th March 1993. In this document he argues for a cypherpunk ethos which elevates action over talk. He believed that instead of debating the fineries of theoretical systems, cypherpunks should get to work writing the cryptographic tools that will enable them to bring more privacy and liberty into the word.
 
-Modern-day cypherpunks still hold that ethos close to their heart. Just as "The Crypto-Anarchist Manifesto" was required required reading for that section, "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" is essential reading for all newcomers.
+Modern-day cypherpunks still hold that ethos close to their heart. Just as "The Crypto-Anarchist Manifesto" was required reading for that section, "[A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)" is essential reading for all newcomers.
 
 ## tl;dr:
 
