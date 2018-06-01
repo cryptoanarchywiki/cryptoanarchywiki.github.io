@@ -10,13 +10,13 @@ Ralph Merkle solved the puzzle of public key cryptography during his undergradua
 
 From wikipedia:
 
-> Adam Back (born July 1970) is a British cryptographer and crypto-hacker.
+> Ralph Merkle (born Feburary 1952) is a American cryptographer.
 
-> He is the inventor of hashcash, the proof-of-work system used by several anti-spam systems. A similar system is used in bitcoin. Hashcash has also been used in a number of other protocols such as combating blog spam, and defending against user namespace pollution.
+> One of three creators of public key cryptography along with Martin Hellman and Whitfield Diffie.
 
-> He is also known for pioneering the use of ultra-compact code with his 3-line RSA in Perl signature file and non-exportable T-shirts to protest the (now relaxed) United States cryptography export regulations.
+> Co-inventor of cryptographic hashing along with Ivan Damgård.
 
-> Today he is CEO of Blockstream, a company that seeks to further the development of bitcoin and blockchain technology.
+> Today he is a faculty member at the Singularity University and is also an advisor to the Ethereum Foundation.
 
 ## Links
 
