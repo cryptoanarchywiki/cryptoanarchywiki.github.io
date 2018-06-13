@@ -17,8 +17,9 @@ From wikipedia:
 ## Links
 
 * [Ralph C. Merkle on Wikipedia](https://en.wikipedia.org/wiki/Ralph_Merkle)
+* [Complete List of Research Papers on merkle.com](http://www.merkle.com/merkleDir/papers.html)
 * Apr 1978 merkle.com - [Protocols for Public Key Cryptosystems](http://www.merkle.com/papers/Protocols.pdf)
 * Apr 1978 merkle.com - [Secure Communications over Insecure Channels](http://www.merkle.com/1974/Puzzles1975.12.07.pdf)
-* Jun 1979 merkle.com - [Secrecy, Authentication, And Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf) - _this is his PhD thesis, where he proposed the cryptographic hash function_
+* 04-Jun-1979 merkle.com - [Secrecy, Authentication, And Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf) - _this is his PhD thesis, where he proposed the cryptographic hash function_
 * 27-Oct-2013 Gideon Samid on Youtube - [Ralph Merkle: Privacy Between Strangers](https://www.youtube.com/watch?v=jKpkM7Zeb6U)
 * 25-Jul-2016 Epicenter Bitcoin on Youtube - [EB141 – Ralph Merkle: Revolutionizing Democracy Using DAOs](https://www.youtube.com/watch?v=dvzpvXLbpv4)

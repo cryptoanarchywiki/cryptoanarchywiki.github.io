@@ -15,7 +15,7 @@ Many of these I collated via [nakamotoinstitute.org](https://nakamotoinstitute.o
 * Feb 1978 people.csail.mit.edu/rivest/ - [A Method for Obtaining Digital Signatures and Public-key Cryptosystems](http://people.csail.mit.edu/rivest/Rsapaper.pdf) by Ronald L. Rivest, Adi Shamir, and Leonard M. Adleman
 * Apr 1978 merkle.com - [Protocols for Public Key Cryptosystems](http://www.merkle.com/papers/Protocols.pdf) by [Ralph C. Merkle](/people/ralph-c-merkle)
 * Apr 1978 merkle.com - [Secure Communications over Insecure Channels](http://www.merkle.com/1974/Puzzles1975.12.07.pdf) by [Ralph C. Merkle](/people/ralph-c-merkle)
-* Jun 1979 merkle.com - [Secrecy, Authentication, And Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf) by [Ralph C. Merkle](/people/ralph-c-merkle) - _this is his PhD thesis, where he proposed the cryptographic hash function_
+* 04-Jun-1979 merkle.com - [Secrecy, Authentication, And Public Key Systems](http://www.merkle.com/papers/Thesis1979.pdf) by [Ralph C. Merkle](/people/ralph-c-merkle) - _this is his PhD thesis, where he proposed the cryptographic hash function_
 * 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by [David Chaum](/people/david-chaum)
 * 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by [David Chaum](/people/david-chaum)
 * Jul 1982 lamport.azurewebsites.net/pubs - [The Byzantine Generals Problem](http://lamport.azurewebsites.net/pubs/byz.pdf) by Leslie Lamport, Robert Shostak, and Marshall Pease
