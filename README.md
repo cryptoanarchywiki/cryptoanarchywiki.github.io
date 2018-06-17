@@ -26,7 +26,7 @@ If you want to create a new "subsection" type collection, you'll have to wire th
 ### Spelling conventions
 I use British spelling conventions because that's what I grew up with. For the sake of keeping the site internally consistent, I may ask you to "correct" your spellings to British spellings for any content you submit.
 
-### Dates formats
+### Date formats
 Exact dates should be given in the following format: 31-Oct-2008. This is because this format is unambiguous when accounting for US vs inernational date standards. Always use three-letter months. Other date formats I'll accept are:
 
 + 1990s (for a broad period of time without clear beginnings and ends)
