@@ -28,4 +28,4 @@ _placeholder_
 * 18-Aug-2017 BitcoinCore.org - [Correcting misinformation on Segwit2x and btc1](https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/)
 * 23-Aug-2017 BitcoinMagazine.com - [The Long Road to SegWit: How Bitcoin’s Biggest Protocol Upgrade Became Reality](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) by Aaron van Wirdum
 * 24-Aug-2017 Bitcoin Blockchain - [The First SegWit transaction on Bitcoin](http://srv1.yogh.io/#tx:id:8F907925D2EBE48765103E6845C06F1F2BB77C6ADC1CC002865865EB5CFD5C1C)
-* 20-Nov-2017 BitcoinTechTalk.com - [Segwit2x Bugs Explained](https://bitcointechtalk.com/segwit2x-bugs-explained-8e0c286124bc)
+* 20-Nov-2017 BitcoinTechTalk.com - [Segwit2x Bugs Explained](https://bitcointechtalk.com/segwit2x-bugs-explained-8e0c286124bc) by Jimmy Song
