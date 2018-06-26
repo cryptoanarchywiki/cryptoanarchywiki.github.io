@@ -1,7 +1,7 @@
 ---
 layout: static-informational
-title: Notable Organsations
-permalink: /people-and-organisations/notable-organsations
+title: Notable Organisations
+permalink: /people-and-organisations/notable-organisations
 order: 5
 ---
 
