@@ -8,6 +8,9 @@ layout: default
 <span class="time">{{ page.date | date_to_string }}</span> - by {{ page.author }}
 
 <div class="content">
+  {% if page.image %}
+    <p><img src="{{ page.image }}" alt="header image" id="header-image"></p>
+  {% endif %}  
   <div class="post">{{ content }}</div>
   <hr>
   <a href="/">Return to Home</a>

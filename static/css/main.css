@@ -183,7 +183,7 @@ div.col-sm-3 img.profile-avatar {
 
 .post-content img,
 .content img {
-  width: 100%
+  max-width: 100%
 }
 
 /* Responsive Conditional */
@@ -197,4 +197,8 @@ div.col-sm-3 img.profile-avatar {
   div.col-sm-3 {
     margin-top: 30px;
   }
+}
+
+#header-image {
+    width: 100%;
 }
