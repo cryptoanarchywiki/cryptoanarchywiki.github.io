@@ -183,7 +183,7 @@ div.col-sm-3 img.profile-avatar {
 
 .post-content img,
 .content img {
-  max-width: 100%
+  width: 100%
 }
 
 /* Responsive Conditional */
