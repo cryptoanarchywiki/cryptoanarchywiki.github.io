@@ -33,3 +33,9 @@ You can contact me via:
 + Twitter: [@_CryptoAnarchy](https://twitter.com/_CryptoAnarchy) (DMs are open)
 + Email: [tom@busby.ninja](tom@busby.ninja)
 + Github Issue: [cryptoanarchywiki/cryptoanarchywiki.github.io](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io/issues)
+
+## Update:
+
+_A user going by "juan" on the current cypherpunks mailing list replied to my appeal with a (seemingly) quite complete archive of the period of 2000 to 2016._
+
+_The raw archive of this data can be found here: [cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive](https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive)._
