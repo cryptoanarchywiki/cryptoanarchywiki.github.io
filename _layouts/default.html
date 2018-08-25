@@ -78,7 +78,7 @@ layout: compress
       {% endfor %}
     {% endif %}
 
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.share.twitter_username }}">
     <meta name="twitter:creator" content="@{{ site.share.twitter_username }}">
 
@@ -99,7 +99,8 @@ layout: compress
     {% endif %}
 
     {% if page.image %}
-      <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
+      <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
     {% endif %}
 
     <!-- Font awesome icons -->
