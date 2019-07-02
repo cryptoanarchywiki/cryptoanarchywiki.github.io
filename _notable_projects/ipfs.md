@@ -3,5 +3,5 @@ layout: static-informational
 title: IPFS
 no_content: true
 permalink: /notable_projects/ipfs
-order: 5
+order: 6
 ---
