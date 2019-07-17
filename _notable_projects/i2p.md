@@ -1,7 +1,7 @@
 ---
 layout: static-informational
-title: PGP
+title: I2P
 no_content: true
-permalink: /notable_projects/pgp
-order: 10
+permalink: /notable_projects/i2p
+order: 5
 ---
