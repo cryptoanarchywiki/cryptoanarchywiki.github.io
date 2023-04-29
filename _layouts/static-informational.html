@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<div class="index-header" markdown="1">
+  <h1>{{ page.title }}</h1>
+</div>
+<hr />
+{{ content }}
+<hr />
+<a href="/">Return to Home</a>
+
 <p style="font-style: italic">
   Please note that the information presented on this site was composed from
   publicly available materials in mainly 2017 and 2018 and has not been
@@ -13,11 +21,3 @@ layout: default
   inaccurate. In the case of inaccuracy, please file an Issue in the GitHub
   repo. The site should not be used as a source of truth.
 </p>
-
-<div class="index-header" markdown="1">
-  <h1>{{ page.title }}</h1>
-</div>
-<hr />
-{{ content }}
-<hr />
-<a href="/">Return to Home</a>
