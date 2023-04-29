@@ -6,15 +6,17 @@ permalink: /people/gregory-maxwell
 people-groups: [early-cypherpunk, later-cypherpunk, cryptocurrency]
 ---
 
-Blockstream.com team bio:
-
-> Greg was one of the key architects of the two-way peg which makes sidechains possible. He has been a Bitcoin core developer since 2011, and is one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem. He has contributed to many widely-used techniques in the Bitcoin space, such as the homomorphic key derivation used in BIP32 and trustless privacy-preserving techniques such as CoinJoin and blinded proof of solvency. Greg is a long-time free software developer and comes to Blockstream from Mozilla where he contributed to the Daala video compression project and coauthored the Opus audio codec (RFC 6716). He also has over 15 years of experience developing, implementing and operating embedded systems and protocols for large-scale networking. For many in the Bitcoin community, Greg is likely the person telling you that your protocol is broken and why, but he usually feels pretty bad about it.
+Gregory Maxwell is a former Bitcoin developer.
 
 ## Links
 
-* [Gregory Maxwell on Blockstream.com/team/](https://blockstream.com/team/greg-maxwell/)
+* [Gregory Maxwell's webpage](https://nt4tn.net/)
 * [nullc on Reddit](https://www.reddit.com/user/nullc)
+* [nullc on Hacker News](https://news.ycombinator.com/user?id=nullc)
 * [Gregory Maxwell on GitHub](https://github.com/gmaxwell)
+* [Gregory Maxwell on Blockstream.com/team/ in 2017](https://web.archive.org/web/20171211211149/https://blockstream.com/team/greg-maxwell/)
+* 04-Nov-1999 EMEDIA - [Cease and DeCSS: DVD's Encryption Code Cracked](https://web.archive.org/web/20000226011228/http://www.emediapro.net/news99/news111.html)
+* 20-Jul-2011 [Statement on Royal Society document release, encumbrance of the public domain, and prosecution of Aaron Swartz](https://nt4tn.net/papers/201107.PTRSOL_statement.txt)
 * 29-Dec-2014 CoinDesk - [Gregory Maxwell: How I Went From Bitcoin Skeptic to Core Developer](https://www.coindesk.com/gregory-maxwell-went-bitcoin-skeptic-core-developer/) by Daniel Cawrey
 * 03-Feb-2015 Epicenter Bitcoin on Youtube - [EB65 – Adam Back & Greg Maxwell: Sidechains Unchained](https://www.youtube.com/watch?v=jE_elgnIw3M) with [Adam Back](/people/adam-back)
 * 09-Nov-2015 The Bitcoin Foundation on Youtube - [Top Bitcoin Core Dev Greg Maxwell DevCore: Must watch talk on mining, block size, and more](https://www.youtube.com/watch?v=RguZ0_nmSPw)
@@ -26,3 +28,4 @@ Blockstream.com team bio:
 * 14-Apr-2017 BitcoinTalk - [Greg Maxwell doesn't support BIP 148 UASF](https://bitcointalk.org/index.php?topic=1870015.0)
 * 06-Jun-2017 TrustNodes.com - [Making Gregory Maxwell a Bitcoin Core Committer Was a “Huge Mistake” Says Gavin Andresen](http://www.trustnodes.com/2017/06/06/making-gregory-maxwell-bitcoin-core-committer-huge-mistake-says-gavin-andresen) by ?
 * 09-Sep-2017 CoinJournal.net - [Greg Maxwell on the Prospects of SegWit2x And Why Bitcoin Developers May Leave The Project If It Succeeds](https://coinjournal.net/greg-maxwell-prospects-segwit2x-bitcoin-developers-may-leave-project-succeeds/amp/) by Kyle Torpey
+* 20-Nov-2020 Bitcointalk - [User interview](https://bitcointalk.org/index.php?topic=5262967.msg55722022#msg55722022)
